@@ -11,33 +11,41 @@ public class HTMLExporter implements Table.Exporter{
 	public HTMLExporter( Writer out )
 	{	this.out = out;
 	}
-
-
 	public void storeMetadata(
 			String tableName,
 			int width,
 			int height,
 			Iterator columnNames )	throws IOException
 	{	this.width = width;
-		out.write(tableName == null ? "<table>" : tableName );
-		out.write("\n");
-		storeRow( columnNames ); // comma separated list of columns ids
-		out.write(tableName == null ? "</table>" : tableName);
+		while(columnNames.hasNext())
+		{
+			Object columnName = columnNames.next();
+			if (columnName != null)
+				out.write("<th>" + columnName.toString() + "</td>");
+			else
+				out.write("<td></td>");
+		}
+
 	};
 	public void storeRow(Iterator data) throws IOException
 	{	int i = width;
-		out.write("<tr><td>");
+		out.write("<tr>");
 		while( data.hasNext())
 		{	Object datum = data.next();
 			if( datum != null)
-				out.write(datum.toString());
-			if(--i > 0) {
-				out.write("</td><td>");
-			}
+				out.write("<td>" + datum.toString() + "</td>");
+			else
+				out.write("<td></td>");
 		}
-		out.write("</td></tr>");
+		out.write("</tr>");
 
 	};
-	public void startTable() throws IOException{/* nothing to do*/};
-	public void endTable()	throws IOException{/* nothing to do*/};
+	public void startTable() throws IOException
+	{
+		out.write("<table>");
+	};
+	public void endTable()	throws IOException
+	{
+		out.write("</table>");
+	};
 }
