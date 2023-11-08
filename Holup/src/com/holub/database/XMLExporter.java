@@ -63,9 +63,11 @@ import java.util.*;
 public class XMLExporter implements Table.Exporter
 {	private final Writer out;
 	private 	  int	 width;
-
-	public CSVExporter( Writer out )
+	private List<Object> columnNames;
+	private String tableName;
+	public XMLExporter( Writer out )
 	{	this.out = out;
+		this.columnNames = new ArrayList<>();
 	}
 
 	public void storeMetadata( String tableName,
@@ -73,29 +75,36 @@ public class XMLExporter implements Table.Exporter
 							   int height,
 							   Iterator columnNames ) throws IOException
 
-	{	this.width = width;
-		out.write(tableName == null ? "<anonymous>" : tableName );
+	{	this.tableName = tableName;
+		this.width = width;
+		while(columnNames.hasNext()){
+			this.columnNames.add(columnNames.next());
+		}
+		out.write(tableName == null ? "<anonymous>" : "<"+tableName+">" );
 		out.write("\n");
-		storeRow( columnNames ); // comma separated list of columns ids
 	}
 
-	public void storeRow( Iterator data ) throws IOException
-	{	int i = width;
-		while( data.hasNext() )
-		{	Object datum = data.next();
-
+	public void storeRow( Iterator data ) throws IOException {
+		int i = width;
+		Iterator columnNamesIterator = this.columnNames.iterator();
+		out.write("\t<row>\n");
+		while (data.hasNext() && columnNamesIterator.hasNext()) {
+			Object datum = data.next();
+			Object columnName = columnNamesIterator.next();
 			// Null columns are represented by an empty field
 			// (two commas in a row). There's nothing to write
 			// if the column data is null.
-			if( datum != null )	
-				out.write( datum.toString() );
-
-			if( --i > 0 )
-				out.write(",\t");
+			if (datum != null) {
+				out.write("\t" + "\t" + "<" + columnName + ">");
+				out.write(datum.toString());
+				out.write("</" + columnName + ">\n");
+			}
 		}
-		out.write("\n");
+		out.write("\t</row>\n");
 	}
 
 	public void startTable() throws IOException {/*nothing to do*/}
-	public void endTable()   throws IOException {/*nothing to do*/}
+	public void endTable()   throws IOException {/*nothing to do*/
+		out.write(this.tableName == null ? "</anonymous>" : "</"+this.tableName+">");
+	}
 }
