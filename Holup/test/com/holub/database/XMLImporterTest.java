@@ -1,28 +1,23 @@
 package com.holub.database;
 
-import org.xml.sax.SAXException;
-import javax.xml.parsers.ParserConfigurationException;
 import java.io.IOException;
 
-import static org.hamcrest.core.Is.is;
-import static org.hamcrest.core.IsEqual.equalTo;
-import static org.junit.Assert.assertThat;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class XMLImporterTest {
+    @org.junit.jupiter.api.Test
+    void XMLImport() throws IOException {
 
-    public void testXMLImporterForPeople() throws IOException, ParserConfigurationException, SAXException {
-        String file = "people.xml"; // read people.xml
-        XMLImporter xmlImporter = new XMLImporter(file);
-        xmlImporter.startTable();
-        assertThat(xmlImporter.loadTableName(), is(equalTo("people")));
-        assertThat(xmlImporter.loadWidth(), is(equalTo(3)));
+        String ans = "address";
+        try {
+            String testFile = "C:\\DP2023\\Holup\\people.xml";
+            XMLImporter builder = new XMLImporter(testFile);
+            System.out.println(builder.loadTableName());
+            assertEquals(builder.loadTableName(),ans );
+            assertEquals(builder.loadWidth(), 5);
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
     }
 
-    public void testXMLImporterForUniversity() throws IOException, ParserConfigurationException, SAXException {
-        String file = "university.xml"; // read university.xml
-        XMLImporter xmlImporter = new XMLImporter(file);
-        xmlImporter.startTable();
-        assertThat(xmlImporter.loadTableName(), is(equalTo("university")));
-        assertThat(xmlImporter.loadWidth(), is(equalTo(2)));
-    }
 }

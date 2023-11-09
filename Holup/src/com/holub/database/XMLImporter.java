@@ -1,6 +1,8 @@
 package com.holub.database;
+
 import com.holub.tools.ArrayIterator;
 import org.w3c.dom.Document;
+import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
@@ -16,8 +18,9 @@ public class XMLImporter implements Table.Importer {
     private String tableName;
     private String[][] rows;
 
-    public XMLImporter(String in) {
-        this.in = in;
+    public XMLImporter(String in) throws IOException {
+		this.in = in;
+		this.startTable();
     }
 
 	@Override
@@ -42,20 +45,26 @@ public class XMLImporter implements Table.Importer {
 		}
         document.getDocumentElement().normalize();
         
-        NodeList TagList1 = document.getElementsByTagName("DATA");
-        NodeList childNodes = TagList1.item(0).getChildNodes();
-        columnNames = new String[childNodes.getLength()];
-        rows = new String[TagList1.getLength()][childNodes.getLength()];
-        for (int i = 0; i < TagList1.getLength(); i++) {
-            childNodes = TagList1.item(i).getChildNodes();
-            for (int j = 0; j < childNodes.getLength(); j++) {
-                columnNames[j] = childNodes.item(j).getNodeName();
-                rows[i][j] = (childNodes.item(j).getTextContent());
-            }
-        }
-        NodeList TagList2 = document.getElementsByTagName("title");
-        tableName = TagList2.item(0).getTextContent();
-		
+		NodeList TagList1 = document.getElementsByTagName("row");
+
+		columnNames = new String[TagList1.item(0).getChildNodes().getLength()];
+		rows = new String[TagList1.getLength()][TagList1.item(0).getChildNodes().getLength()];
+
+		for(int i=0; i < TagList1.getLength(); i++){//row수 만큼 반복
+			Node row = TagList1.item(i);
+
+			for(int j=0; j < row.getChildNodes().getLength(); j++){//column수 만큼 반복
+				Node node = row.getChildNodes().item(j);
+
+				if(node.getNodeType() == Node.ELEMENT_NODE) {
+					if (i == 0 ){
+						columnNames[j] = node.getNodeName();
+					}
+					rows[i][j] = node.getTextContent();
+				}
+			}
+		}
+		tableName = document.getDocumentElement().getNodeName();
 	}
 
 	@Override
@@ -75,7 +84,7 @@ public class XMLImporter implements Table.Importer {
 
 	@Override
 	public Iterator loadRow() throws IOException {
-		return null;
+		return new ArrayIterator(rows);
 	}
 
 	@Override
