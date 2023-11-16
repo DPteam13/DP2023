@@ -6,10 +6,10 @@ import java.io.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class CSVExporterTest {
+class XMLExporterTest {
 
     ConcreteTable createDummy() {
-        File testFile = new File("C:\\Users\\99san\\DP2023\\Holup\\src\\com\\holub\\database\\Dbase\\address.csv");
+        File testFile = new File("Holup\\Dbase\\address.csv");
         try {
             FileReader reader = new FileReader(testFile);
             CSVImporter importer = new CSVImporter(reader);
