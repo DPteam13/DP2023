@@ -447,7 +447,7 @@ import com.holub.tools.ArrayIterator;
 		// If we're not doing a join, use the more efficient version
 		// of select().
 
-		if (otherTables == null || otherTables.length == 0)
+		if (otherTables == null || otherTables.length == 0) // join할 table이 없는 경우
 			return select(where, requestedColumns);
 
 		// Make the current table not be a special case by effectively
@@ -556,8 +556,7 @@ import com.holub.tools.ArrayIterator;
 		String[] columnNames = null;
 		Table[] otherTables = null;
 
-		if (requestedColumns != null) // SELECT *
-		{
+		if (requestedColumns != null) { // select A, B, ... (select에 컬럼이 있는 경우)
 			// Can't cast an Object[] to a String[], so make a copy to ensure
 			// type safety.
 
@@ -571,6 +570,28 @@ import com.holub.tools.ArrayIterator;
 
 		if (other != null)
 			otherTables = (Table[]) other.toArray(new Table[other.size()]);
+
+		// 추가한 코드
+		if (requestedColumns == null && other.size() != 0) { // select *
+			ConcreteTable o = (ConcreteTable) otherTables[0];
+
+			// 결과 배열 크기 계산
+			int totalLength = this.columnNames.length + o.columnNames.length;
+
+			// 결과 배열 생성
+			String[] resultArray = new String[totalLength];
+
+			// 첫 번째 배열 복사
+			System.arraycopy(this.columnNames, 0, resultArray, 0, this.columnNames.length);
+
+			// 두 번째 배열 복사
+			System.arraycopy(o.columnNames, 0, resultArray, this.columnNames.length, o.columnNames.length);
+
+			// 결과 배열 출력
+			System.out.println("Merged Array: " + Arrays.toString(resultArray));
+
+			columnNames = resultArray;
+		}
 
 		return select(where, columnNames, otherTables);
 	}
