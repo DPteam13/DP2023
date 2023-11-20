@@ -572,7 +572,7 @@ import com.holub.tools.ArrayIterator;
 			otherTables = (Table[]) other.toArray(new Table[other.size()]);
 
 		// 추가한 코드
-		if (requestedColumns == null) { // select *
+		if (requestedColumns == null && other.size() != 0) { // select *
 			ConcreteTable o = (ConcreteTable) otherTables[0];
 
 			// 결과 배열 크기 계산
@@ -589,7 +589,7 @@ import com.holub.tools.ArrayIterator;
 
 			// 결과 배열 출력
 			System.out.println("Merged Array: " + Arrays.toString(resultArray));
-			
+
 			columnNames = resultArray;
 		}
 
