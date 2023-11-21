@@ -1,12 +1,15 @@
 package com.holub.database;
 
-import com.holub.tools.ArrayIterator;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.TestInstance;
 
-import static org.junit.jupiter.api.Assertions.*;
+import java.io.FileReader;
+import java.io.Reader;
+import java.io.StringWriter;
+import java.io.Writer;
 
-import java.io.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.fail;
 
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
 @DisplayName("연결")
@@ -16,7 +19,7 @@ class HTMLExporterTest {
     @org.junit.jupiter.api.BeforeAll
     void loadDummyData(){
         try {
-            Reader reader = new FileReader("/Users/mihnhyuk/code/DP2023/Holup/Dbase/address.csv");
+            Reader reader = new FileReader("C:\\DP2023\\Holup\\Dbase\\address.csv");
             Table.Importer importer = new CSVImporter(reader);
             table = new ConcreteTable(importer);
         }catch(Exception e){
@@ -44,8 +47,6 @@ class HTMLExporterTest {
             }catch(Exception e){
                 e.printStackTrace();
             }
-
         }
-
     }
 }
