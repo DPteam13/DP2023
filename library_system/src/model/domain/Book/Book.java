@@ -1,6 +1,6 @@
-package model.domain;
+package model.domain.Book;
 
-public class Book {
+public abstract class Book {
     private int bookId;
 
     private String name;

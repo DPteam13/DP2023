@@ -1,7 +1,7 @@
 package model.DAO;
 
 import context.DBConnectionManager;
-import model.domain.Book;
+import model.domain.Book.Book;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
