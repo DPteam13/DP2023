@@ -32,7 +32,7 @@ public class DBConnectionManager {
     }
 
     public static ResultSet executeQuery(String sql) throws SQLException {
-        Connection conn = DBConnectionManager.getConnection();
+        Connection conn = getConnection();
         Statement statement = conn.createStatement();
         ResultSet resultSet = statement.executeQuery(sql);
         statement.close();

@@ -14,7 +14,7 @@ public class BookDAO extends DAO{
     public Book search(String bookName) {
         /**
          * 함수 오버로딩해서도 도서명 검색 저자 검색 구분할 수 있을거 같기도 한데
-         * 여기도 Search 클래스로 만들어서 갈아끼우는걸로 해서 패턴 적용해도 될듯
+         * 여기도 Search 클래스로 만들어서 갈아끼우는걸로 해서 전략 패턴 적용해도 될듯
          */
 
         String sql =
