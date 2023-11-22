@@ -1,32 +1,40 @@
 package model.DAO;
 
 import context.DBConnectionManager;
+import model.DAO.bookSearchStrategy.SearchBook;
 import model.domain.Book;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.util.ArrayList;
 
 public class BookDAO extends DAO{
 //    public BookDAO(Connection conn){
 //        super(conn);
 //    }
 
-    public Book search(String bookName) {
-        /**
-         * 함수 오버로딩해서도 도서명 검색 저자 검색 구분할 수 있을거 같기도 한데
-         * 여기도 Search 클래스로 만들어서 갈아끼우는걸로 해서 전략 패턴 적용해도 될듯
-         */
+    /**
+     *
+     * @param bookName
+     * @return book list
+     */
+    public ArrayList<Book> search(String bookName, SearchBook searchMethod) throws SQLException{
+        ResultSet resultSet = searchMethod.search(bookName);
 
-        String sql =
-                "SELECT *" +
-                "FROM book" +
-                "WHERE name = " + bookName;
-        try {
-            ResultSet resultSet = DBConnectionManager.executeQuery(sql);
-            //TODO parse result
-        }catch(SQLException e){
-            e.printStackTrace();
+        ArrayList<Book> resultList = new ArrayList<>();
+        while(resultSet.next()){
+            Book book = new Book(
+                    resultSet.getString("name"),
+                    resultSet.getString("isbn"),
+                    resultSet.getInt("classification_code"),
+                    resultSet.getInt("publisher_id"),
+                    resultSet.getInt("author_id"),
+                    resultSet.getInt("is_borrowed")
+            );
+            resultList.add(book);
+
         }
-        return null;
+
+        return resultList;
     }
 }
