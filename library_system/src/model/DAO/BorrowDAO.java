@@ -1,7 +1,7 @@
 package model.DAO;
 
 import model.DAO.borrowListStrategy.BorrowList;
-import model.domain.Borrow;
+import common.domain.Borrow;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

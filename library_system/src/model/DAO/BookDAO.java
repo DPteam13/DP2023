@@ -1,8 +1,7 @@
 package model.DAO;
 
-import context.DBConnectionManager;
 import model.DAO.bookSearchStrategy.SearchBook;
-import model.domain.Book;
+import common.domain.Book;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

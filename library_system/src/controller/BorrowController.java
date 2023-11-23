@@ -2,7 +2,7 @@ package controller;
 
 import model.DAO.BorrowDAO;
 import model.DAO.borrowListStrategy.BorrowListByUserId;
-import model.domain.Borrow;
+import common.domain.Borrow;
 
 import java.sql.SQLException;
 import java.util.ArrayList;
