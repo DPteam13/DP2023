@@ -7,7 +7,7 @@ import model.domain.Book;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
-public class SearchBook {
+public class SearchBookController {
     private BookDAO bookDAO;
 
 
