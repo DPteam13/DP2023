@@ -1,4 +1,4 @@
-package src.view.commands;
+package view.commands;
 
 public class ReturnBookCommand implements Command{
     public String name = "도서 반납";
