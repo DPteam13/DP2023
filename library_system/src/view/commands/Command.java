@@ -1,4 +1,4 @@
-package src.view.commands;
+package view.commands;
 
 public interface Command {
     void execute();
