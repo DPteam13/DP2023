@@ -1,4 +1,4 @@
-package view.commands;
+package src.view.commands;
 
 public class RequestBookCommand implements Command{
     public String name = "도서 신청";

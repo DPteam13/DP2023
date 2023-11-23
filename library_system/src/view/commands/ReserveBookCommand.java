@@ -1,4 +1,4 @@
-package view.commands;
+package src.view.commands;
 
 public class ReserveBookCommand implements Command{
     public String name = "도서 예약";

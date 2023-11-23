@@ -1,4 +1,4 @@
-package view.commands;
+package src.view.commands;
 
 public class SearchBookCommand implements Command{
     public String name = "도서 검색";
