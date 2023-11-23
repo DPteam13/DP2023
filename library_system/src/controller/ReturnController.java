@@ -1,6 +1,6 @@
 package controller;
 
-public class Return {
+public class ReturnController {
 
     /**
      *
