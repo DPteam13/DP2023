@@ -12,11 +12,8 @@ import java.util.Scanner;
 public class MainView extends ConsoleView{
     public MainView() {
         this.title = "Main";
-        Command rentBookCommand = new RentBookCommand();
-        Command returnBookCommand = new ReturnBookCommand();
-        Command serachBookCommand = new SearchBookCommand();
-        this.options.add(rentBookCommand);
-        this.options.add(returnBookCommand);
-        this.options.add(serachBookCommand);
+        this.options.add(new RentBookCommand());
+        this.options.add(new ReturnBookCommand());
+        this.options.add(new SearchBookCommand());
     }
 }
