@@ -20,7 +20,7 @@ done
 
 echo "Manifest-Version: 1.0" 						>  $TMP/manifest.mf
 echo "Created-By: 1.5.0-rc (Sun Microsystems Inc.)" >> $TMP/manifest.mf
-echo "Main-Class: com.holub.database.jdbc.Console"  >> $TMP/manifest.mf
+echo "LibrarySystemApplication-Class: com.holub.database.jdbc.Console"  >> $TMP/manifest.mf
 
 echo "HolubSQL.jar"						>  $BIN/README.TXT
 echo "Version 1.0"						>> $BIN/README.TXT
