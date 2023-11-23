@@ -1,6 +1,6 @@
-package view;
+package src.view;
 
-import view.commands.Command;
+import src.view.commands.Command;
 
 import java.util.ArrayList;
 import java.util.InputMismatchException;
@@ -38,6 +38,8 @@ public abstract class ConsoleView{
             display();
             int selection = getInput(in);
             select(selection-1);
+            System.out.println("Press Enter");
+            in.nextLine();
         }
     }
     public void select(int idx) {
