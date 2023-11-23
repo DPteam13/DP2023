@@ -38,6 +38,8 @@ public abstract class ConsoleView{
             display();
             int selection = getInput(in);
             select(selection-1);
+            System.out.println("Press Enter");
+            in.nextLine();
         }
     }
     public void select(int idx) {
