@@ -9,6 +9,15 @@ import java.util.ArrayList;
 
 public class BorrowController {
     private BorrowDAO borrowDAO;
+
+    private static BorrowController instance = new BorrowController();
+    private BorrowController(){
+        borrowDAO = BorrowDAO.getInstance();
+    }
+    public static BorrowController getInstance(){
+        return instance;
+    }
+
     /**
      *
      * @param bookId
