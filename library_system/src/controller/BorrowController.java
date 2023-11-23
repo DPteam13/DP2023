@@ -2,13 +2,22 @@ package controller;
 
 import model.DAO.BorrowDAO;
 import model.DAO.borrowListStrategy.BorrowListByUserId;
-import model.domain.Borrow;
+import common.domain.Borrow;
 
 import java.sql.SQLException;
 import java.util.ArrayList;
 
 public class BorrowController {
     private BorrowDAO borrowDAO;
+
+    private static BorrowController instance = new BorrowController();
+    private BorrowController(){
+        borrowDAO = BorrowDAO.getInstance();
+    }
+    public static BorrowController getInstance(){
+        return instance;
+    }
+
     /**
      *
      * @param bookId

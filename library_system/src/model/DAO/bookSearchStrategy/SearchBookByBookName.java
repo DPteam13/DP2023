@@ -1,7 +1,6 @@
 package model.DAO.bookSearchStrategy;
 
 import context.DBConnectionManager;
-import model.domain.Book;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
