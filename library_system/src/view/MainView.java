@@ -1,9 +1,9 @@
-package src.view;
+package view;
 
-import src.view.commands.Command;
-import src.view.commands.RentBookCommand;
-import src.view.commands.ReturnBookCommand;
-import src.view.commands.SearchBookCommand;
+import view.commands.Command;
+import view.commands.RentBookCommand;
+import view.commands.ReturnBookCommand;
+import view.commands.SearchBookCommand;
 
 public class MainView extends ConsoleView{
     public MainView() {

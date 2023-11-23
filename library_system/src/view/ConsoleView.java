@@ -1,6 +1,6 @@
-package src.view;
+package view;
 
-import src.view.commands.Command;
+import view.commands.Command;
 
 import java.util.ArrayList;
 import java.util.InputMismatchException;
@@ -33,6 +33,7 @@ public abstract class ConsoleView{
         newLine(1);
         System.out.print("메뉴를 선택해 주세요 : ");
     }
+
     public void run(Scanner in) {
         while(true) {
             display();

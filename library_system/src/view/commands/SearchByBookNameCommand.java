@@ -1,7 +1,7 @@
 package view.commands;
 
-public class ReturnBookCommand implements Command{
-    public String name = "도서 반납";
+public class SearchByBookNameCommand implements Command{
+    public String name = "책 이름으로 검색";
 
     @Override
     public String getName(){
@@ -11,6 +11,6 @@ public class ReturnBookCommand implements Command{
     @Override
     public void execute() {
         // rent book logic
-        System.out.println("Some return book logic");
+        System.out.println("Some rent book logic");
     }
 }
