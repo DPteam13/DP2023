@@ -1,16 +1,19 @@
 package view;
 
+import view.commands.Command;
+import view.commands.RentBookCommand;
+import view.commands.ReturnBookCommand;
 
-public class MainView {
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
 
+public class MainView extends ConsoleView{
     public MainView() {
-        System.out.println(".____    ._____.                                 _________               __                  \n" +
-                "|    |   |__\\_ |______________ _______ ___.__.  /   _____/__.__. _______/  |_  ____   _____  \n" +
-                "|    |   |  || __ \\_  __ \\__  \\\\_  __ <   |  |  \\_____  <   |  |/  ___/\\   __\\/ __ \\ /     \\ \n" +
-                "|    |___|  || \\_\\ \\  | \\// __ \\|  | \\/\\___  |  /        \\___  |\\___ \\  |  | \\  ___/|  Y Y  \\\n" +
-                "|_______ \\__||___  /__|  (____  /__|   / ____| /_______  / ____/____  > |__|  \\___  >__|_|  /\n" +
-                "        \\/       \\/           \\/       \\/              \\/\\/         \\/            \\/      \\/ ");
+        this.title = "Main";
+        Command rentBookCommand = new RentBookCommand();
+        Command returnBookCommand = new ReturnBookCommand();
+        this.options.add(rentBookCommand);
+        this.options.add(returnBookCommand);
     }
-
-
 }
