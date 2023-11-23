@@ -1,5 +1,5 @@
-import view.ConsoleView;
-import view.MainView;
+import src.view.ConsoleView;
+import src.view.MainView;
 
 import java.util.Scanner;
 

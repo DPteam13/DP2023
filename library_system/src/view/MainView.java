@@ -1,12 +1,8 @@
-package view;
+package src.view;
 
-import view.commands.Command;
-import view.commands.RentBookCommand;
-import view.commands.ReturnBookCommand;
-
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
+import src.view.commands.Command;
+import src.view.commands.RentBookCommand;
+import src.view.commands.ReturnBookCommand;
 
 public class MainView extends ConsoleView{
     public MainView() {
