@@ -39,4 +39,13 @@ public class DBConnectionManager {
         conn.close();
         return resultSet;
     }
+
+    public static int executeUpdate(String sql) throws SQLException {
+        Connection conn = getConnection();
+        Statement statement = conn.createStatement();
+        int result = statement.executeUpdate(sql);
+        statement.close();
+        conn.close();
+        return result;
+    }
 }
