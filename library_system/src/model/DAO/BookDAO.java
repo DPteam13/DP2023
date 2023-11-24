@@ -8,9 +8,12 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 
 public class BookDAO extends DAO{
-//    public BookDAO(Connection conn){
-//        super(conn);
-//    }
+    private static BookDAO instance = new BookDAO();
+    private BookDAO(){
+    }
+    public static BookDAO getInstance(){
+        return instance;
+    }
 
     /**
      *

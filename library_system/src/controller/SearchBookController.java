@@ -1,6 +1,7 @@
 package controller;
 
 import model.DAO.BookDAO;
+import model.DAO.BorrowDAO;
 import model.DAO.bookSearchStrategy.SearchBookByBookName;
 import common.domain.Book;
 
@@ -8,7 +9,12 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 
 public class SearchBookController {
-    private BookDAO bookDAO;
+    private static SearchBookController instance = new SearchBookController();
+    private SearchBookController(){};
+    public static SearchBookController getInstance(){
+        return instance;
+    }
+    private BookDAO bookDAO = BookDAO.getInstance();
 
 
     /**

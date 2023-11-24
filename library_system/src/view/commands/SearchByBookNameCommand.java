@@ -16,7 +16,7 @@ public class SearchByBookNameCommand implements Command{
 
     @Override
     public List execute(Scanner in) {
-        SearchBookController searchBookController = new SearchBookController();
+        SearchBookController searchBookController = SearchBookController.getInstance();
         System.out.print("책 제목을 입력해 주세요 : ");
         String bookTitle = in.nextLine();
         List<Book> searchedBookList = searchBookController.searchByBookName(bookTitle);
