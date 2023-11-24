@@ -13,9 +13,8 @@ public class ReturnBookCommand implements Command{
     }
 
     @Override
-    public List execute(Scanner in) {
+    public void execute(Scanner in) {
         // rent book logic
         System.out.println("Some return book logic");
-        return new ArrayList();
     }
 }

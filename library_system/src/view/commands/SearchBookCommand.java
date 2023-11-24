@@ -1,6 +1,6 @@
 package view.commands;
 
-import view.RentBookView;
+import view.SearchBookMenuView;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -15,8 +15,7 @@ public class SearchBookCommand implements Command{
     }
 
     @Override
-    public List execute(Scanner in) {
-        new RentBookView().run(in);
-        return new ArrayList();
+    public void execute(Scanner in) {
+        new SearchBookMenuView().run(in);
     }
 }

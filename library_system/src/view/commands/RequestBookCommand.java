@@ -13,9 +13,9 @@ public class RequestBookCommand implements Command{
     }
 
     @Override
-    public List execute(Scanner in) {
+    public void execute(Scanner in) {
         // rent book logic
         System.out.println("Some request book logic");
-        return new ArrayList();
+
     }
 }

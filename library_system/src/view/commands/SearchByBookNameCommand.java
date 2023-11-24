@@ -9,17 +9,22 @@ import java.util.Scanner;
 
 public class SearchByBookNameCommand implements Command{
     public String name = "책 제목으로 검색";
+    public SearchBookController searchBookController = SearchBookController.getInstance();
+
     @Override
     public String getName(){
         return this.name;
     }
 
     @Override
-    public List execute(Scanner in) {
-        SearchBookController searchBookController = SearchBookController.getInstance();
+    public void execute(Scanner in) {
         System.out.print("책 제목을 입력해 주세요 : ");
         String bookTitle = in.nextLine();
         List<Book> searchedBookList = searchBookController.searchByBookName(bookTitle);
-        return searchedBookList;
+        System.out.println("Results");
+        System.out.printf("| %20s | %10s |", "name", "isBorrowed");
+        for(int i = 0; i < searchedBookList.size(); i++){
+            System.out.printf("| %20s | %10s |", searchedBookList.get(i).getName(), searchedBookList.get(i).getIsBorrowed());
+        }
     }
 }

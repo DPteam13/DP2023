@@ -16,7 +16,6 @@ public class SearchBookController {
     }
     private BookDAO bookDAO = BookDAO.getInstance();
 
-
     /**
      *
      * @param bookName

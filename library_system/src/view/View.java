@@ -17,7 +17,6 @@ public abstract class View {
                     "        \\/               \\/          \\/          \\/          \\/   \\/                 \\/   \\/                \\/                      \\/          \\/ ";
     public String title;
     public List<Command> options;
-    public List<?> results;
     public void display(){
         System.out.println(logo);
         dash(90);
@@ -44,7 +43,7 @@ public abstract class View {
     public void select(int idx, Scanner in) {
         if(idx == -1)
             return;
-        results = options.get(idx).execute(in);
+        options.get(idx).execute(in);
     }
     public void printTitle(){
         System.out.print(title);

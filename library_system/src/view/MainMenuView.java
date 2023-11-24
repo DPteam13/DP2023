@@ -6,8 +6,8 @@ import view.commands.SearchBookCommand;
 
 import java.util.ArrayList;
 
-public class MainView extends View {
-    public MainView() {
+public class MainMenuView extends View {
+    public MainMenuView() {
         title = "Main";
         options = new ArrayList<>();
         options.add(new RentBookCommand());
