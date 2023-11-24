@@ -1,6 +1,6 @@
 package view;
 
-import view.commands.RentBookCommand;
+import view.commands.BorrowBookCommand;
 import view.commands.ReturnBookCommand;
 import view.commands.SearchBookCommand;
 
@@ -10,7 +10,7 @@ public class MainMenuView extends View {
     public MainMenuView() {
         title = "Main";
         options = new ArrayList<>();
-        options.add(new RentBookCommand());
+        options.add(new BorrowBookCommand());
         options.add(new ReturnBookCommand());
         options.add(new SearchBookCommand());
     }
