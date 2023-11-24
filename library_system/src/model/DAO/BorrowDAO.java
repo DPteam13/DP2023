@@ -28,6 +28,7 @@ public class BorrowDAO {
     public ArrayList<Borrow> getBorrowList(Object input, BorrowList borrowList) throws SQLException{
         ResultSet resultSet = borrowList.borrowList(input);
 
+        ArrayList<Borrow> borrowListResult = new ArrayList<>();
         while(resultSet.next()){
             Borrow borrow = new Borrow(
                     resultSet.getInt("user_id"),
@@ -36,10 +37,10 @@ public class BorrowDAO {
                     resultSet.getString("return_date"),
                     resultSet.getInt("is_returned")
             );
-
+            borrowListResult.add(borrow);
         }
 
-        return null;
+        return borrowListResult;
     }
 
     public int borrow(int bookId, int userId) throws SQLException{
@@ -50,8 +51,14 @@ public class BorrowDAO {
                         "NOW(), " +
                         "DATE_ADD(NOW(), INTERVAL 30 DAY), "
                         + CommonConstants.NOT_RETURNED + ")";
-        ResultSet resultSet = DBConnectionManager.executeQuery(sql);
-        
-        return 0;
+        int result = DBConnectionManager.executeUpdate(sql);
+        return result;
+    }
+
+    public int returnBook(int bookId) throws SQLException{
+        //TODO : check status first. 대출 중일 때 반납 처리 가능
+        String sql = "UPDATE borrow SET is_returned = " + CommonConstants.RETURNED + " WHERE book_id = " + bookId;
+        int result = DBConnectionManager.executeUpdate(sql);
+        return result;
     }
 }

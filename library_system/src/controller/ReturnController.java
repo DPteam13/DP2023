@@ -1,22 +1,29 @@
 package controller;
 
-public class ReturnController {
+import model.DAO.BorrowDAO;
 
-    /**
-     *
-     * @param borrowId
-     * @return status 성공 여부
-     */
-    public int returnBookByBorrowId(int borrowId){
-        return 0;
+import java.sql.SQLException;
+
+public class ReturnController {
+    private static ReturnController instance = new ReturnController();
+    private ReturnController(){};
+    public static ReturnController getInstance(){
+        return instance;
     }
 
+    private BorrowDAO borrowDAO = BorrowDAO.getInstance();
     /**
      *
      * @param bookId
      * @return status 성공 여부
      */
     public int returnBookByBookId(int bookId){
-        return 0;
+        try{
+            int result = borrowDAO.returnBook(bookId);
+            return result;
+        }catch (SQLException e){
+            e.printStackTrace();
+            return 0;
+        }
     }
 }
