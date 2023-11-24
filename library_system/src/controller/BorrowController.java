@@ -23,11 +23,23 @@ public class BorrowController {
      * @param bookId
      * @return borrow id
      */
-    public int borrow(int bookId, int userId) throws SQLException{
-        return borrowDAO.borrow(bookId, userId);
+    public int borrow(int bookId, int userId){
+        try {
+            int result = borrowDAO.borrow(bookId, userId);
+            return result;
+        }catch (SQLException e){
+            e.printStackTrace();
+            return 0;
+        }
     }
 
-    public ArrayList<Borrow> getBorrowListByUserId(int userId) throws SQLException {
-        return borrowDAO.getBorrowList(userId, BorrowListByUserId.getInstance()); 
+    public ArrayList<Borrow> getBorrowListByUserId(int userId){
+        try{
+            ArrayList<Borrow> result = borrowDAO.getBorrowList(userId, BorrowListByUserId.getInstance());
+            return result;
+        }catch (SQLException e){
+            e.printStackTrace();
+            return null;
+        }
     }
 }
