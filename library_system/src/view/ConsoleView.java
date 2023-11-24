@@ -1,6 +1,6 @@
-package src.view;
+package view;
 
-import src.view.commands.Command;
+import view.commands.Command;
 
 import java.util.ArrayList;
 import java.util.InputMismatchException;

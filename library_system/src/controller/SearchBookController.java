@@ -2,7 +2,7 @@ package controller;
 
 import model.DAO.BookDAO;
 import model.DAO.bookSearchStrategy.SearchBookByBookName;
-import model.domain.Book;
+import common.domain.Book;
 
 import java.sql.SQLException;
 import java.util.ArrayList;
