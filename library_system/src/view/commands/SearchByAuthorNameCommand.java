@@ -1,5 +1,9 @@
 package view.commands;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
 public class SearchByAuthorNameCommand implements Command{
     public String name = "저자 이름으로 검색";
 
@@ -9,8 +13,7 @@ public class SearchByAuthorNameCommand implements Command{
     }
 
     @Override
-    public void execute() {
-        // rent book logic
-        System.out.println("Some rent book logic");
+    public List execute(Scanner in) {
+        return new ArrayList();
     }
 }

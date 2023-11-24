@@ -1,5 +1,9 @@
 package view.commands;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
 public class RentBookCommand implements Command{
     public String name = "도서 대여";
 
@@ -9,8 +13,9 @@ public class RentBookCommand implements Command{
     }
 
     @Override
-    public void execute() {
+    public List<?> execute(Scanner in) {
         // rent book logic
         System.out.println("Some rent book logic");
+        return new ArrayList<>();
     }
 }

@@ -1,4 +1,4 @@
-package model.domain;
+package common.domain;
 
 public class Request {
     private int requestId;

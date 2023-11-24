@@ -7,7 +7,7 @@ import java.util.InputMismatchException;
 import java.util.List;
 import java.util.Scanner;
 
-public abstract class ConsoleView{
+public abstract class View {
     String logo =
             ".____      .___  __________  __________     _____    __________  _____.___.    _________ _____.___.   _________ ___________ ___________    _____   \n" +
                     "|    |     |   | \\______   \\ \\______   \\   /  _  \\   \\______   \\ \\__  |   |   /   _____/ \\__  |   |  /   _____/ \\__    ___/ \\_   _____/   /     \\  \n" +
@@ -16,8 +16,8 @@ public abstract class ConsoleView{
                     "|_______ \\ |___|  |______  /  |____|_  / \\____|__  /  |____|_  /  / ______|  /_______  /  / ______| /_______  /   |____|    /_______  / \\____|__  /\n" +
                     "        \\/               \\/          \\/          \\/          \\/   \\/                 \\/   \\/                \\/                      \\/          \\/ ";
     public String title;
-    public List<Command> options = new ArrayList<>();
-
+    public List<Command> options;
+    public List<?> results;
     public void display(){
         System.out.println(logo);
         dash(90);
@@ -35,18 +35,16 @@ public abstract class ConsoleView{
     }
 
     public void run(Scanner in) {
-        while(true) {
-            display();
-            int selection = getInput(in);
-            select(selection-1);
-            System.out.println("Press Enter");
-            in.nextLine();
-        }
+        display();
+        int selection = getInput(in);
+        select(selection-1, in);
+        System.out.println("Press Enter");
+        in.nextLine();
     }
-    public void select(int idx) {
+    public void select(int idx, Scanner in) {
         if(idx == -1)
             return;
-        options.get(idx).execute();
+        results = options.get(idx).execute(in);
     }
     public void printTitle(){
         System.out.print(title);

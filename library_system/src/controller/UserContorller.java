@@ -2,14 +2,14 @@ package controller;
 
 import java.util.ArrayList;
 
-public class User {
+public class UserContorller {
 
     /**
      *
      * @param userId
      * @return 대출 목록
      */
-    public ArrayList<Borrow> borrowList(int userId){
+    public ArrayList<BorrowController> borrowList(int userId){
         return null;
     }
 
@@ -18,7 +18,7 @@ public class User {
      * @param userName
      * @return 이름으로 유저 검색
      */
-    public ArrayList<User> userList(String userName){
+    public ArrayList<UserContorller> userList(String userName){
         return null;
     }
 }
