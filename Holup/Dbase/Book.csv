@@ -1,3 +1,4 @@
+Book
 bookId,name,location,isbn,publisher,author,isBorrowed
 0,Classical Mythology,1F Section: 5,0195153448,Oxford University Press,Mark P. O. Morford,False
 1,Clara Callan,2F Section: 8,0002005018,HarperFlamingo Canada,Richard Bruce Wright,False

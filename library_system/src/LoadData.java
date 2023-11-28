@@ -21,9 +21,9 @@ public class LoadData {
 
             while (it.hasNext()){
                 String col = (String) it.next();
-                System.out.printf("%50s", col);
+                System.out.printf("%-40s", col);
             }
-
+            System.out.println("");
             while(true) {
                 Iterator it2 = importer.loadRow();
                 if(it2 == null){
@@ -31,8 +31,8 @@ public class LoadData {
                 }
                 while (it2.hasNext()){
                     String col = (String) it2.next();
-                    if(col.length() > 50 ) col = col.substring(0, 47) + "...";
-                    System.out.printf("%-60s", col);
+                    if(col.length() > 40 ) col = col.substring(0, 35) + "...";
+                    System.out.printf("%-40s", col);
                 }
                 System.out.println("");
             }
