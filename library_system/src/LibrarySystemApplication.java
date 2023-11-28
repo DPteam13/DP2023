@@ -1,12 +1,12 @@
-import view.ConsoleView;
-import view.MainView;
+import view.View;
+import view.MainMenuView;
 
 import java.util.Scanner;
 
 public class LibrarySystemApplication {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        ConsoleView mainView = new MainView();
+        View mainView = new MainMenuView();
         mainView.run(in);
         in.close();
     }

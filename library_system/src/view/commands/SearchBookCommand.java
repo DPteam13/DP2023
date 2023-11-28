@@ -1,5 +1,11 @@
 package view.commands;
 
+import view.SearchBookMenuView;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
 public class SearchBookCommand implements Command{
     public String name = "도서 검색";
 
@@ -9,8 +15,7 @@ public class SearchBookCommand implements Command{
     }
 
     @Override
-    public void execute() {
-        // rent book logic
-        System.out.println("Some search book logic");
+    public void execute(Scanner in) {
+        new SearchBookMenuView().run(in);
     }
 }
