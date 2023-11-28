@@ -1,0 +1,1001 @@
+bookId,name,location,isbn,publisher,author,isBorrowed
+0,Classical Mythology,1F Section: 5,0195153448,Oxford University Press,Mark P. O. Morford,False
+1,Clara Callan,2F Section: 8,0002005018,HarperFlamingo Canada,Richard Bruce Wright,False
+2,Decision in Normandy,1F Section: 6,0060973129,HarperPerennial,Carlo D'Este,True
+3,Flu: The Story of the Great Influenza Pandemic of 1918 and the Search for the Virus That Caused It,3F Section: 16,0374157065,Farrar Straus Giroux,Gina Bari Kolata,False
+4,The Mummies of Urumchi,2F Section: 5,0393045218,W. W. Norton &amp; Company,E. J. W. Barber,False
+5,The Kitchen God's Wife,1F Section: 0,0399135782,Putnam Pub Group,Amy Tan,False
+6,What If?: The World's Foremost Military Historians Imagine What Might Have Been,3F Section: 19,0425176428,Berkley Publishing Group,Robert Cowley,False
+7,PLEADING GUILTY,3F Section: 16,0671870432,Audioworks,Scott Turow,False
+8,Under the Black Flag: The Romance and the Reality of Life Among the Pirates,3F Section: 20,0679425608,Random House,David Cordingly,False
+9,Where You'll Find Me: And Other Stories,1F Section: 10,074322678X,Scribner,Ann Beattie,False
+10,Nights Below Station Street,1F Section: 17,0771074670,Emblem Editions,David Adams Richards,False
+11,Hitler's Secret Bankers: The Myth of Swiss Neutrality During the Holocaust,2F Section: 18,080652121X,Citadel Press,Adam Lebor,False
+12,The Middle Stories,3F Section: 22,0887841740,House of Anansi Press,Sheila Heti,False
+13,Jane Doe,3F Section: 8,1552041778,Mira Books,R. J. Kaiser,False
+14,A Second Chicken Soup for the Woman's Soul (Chicken Soup for the Soul Series),3F Section: 26,1558746218,Health Communications,Jack Canfield,False
+15,The Witchfinder (Amos Walker Mystery Series),1F Section: 21,1567407781,Brilliance Audio - Trade,Loren D. Estleman,False
+16,More Cunning Than Man: A Social History of Rats and Man,2F Section: 25,1575663937,Kensington Publishing Corp.,Robert Hendrickson,False
+17,Goodbye to the Buttermilk Sky,3F Section: 19,1881320189,River City Pub,Julia Oliver,False
+18,The Testament,1F Section: 9,0440234743,Dell,John Grisham,False
+19,Beloved (Plume Contemporary Fiction),1F Section: 3,0452264464,Plume,Toni Morrison,False
+20,Our Dumb Century: The Onion Presents 100 Years of Headlines from America's Finest News Source,2F Section: 11,0609804618,Three Rivers Press,The Onion,False
+21,New Vegetarian: Bold and Beautiful Recipes for Every Occasion,1F Section: 19,1841721522,Ryland Peters &amp; Small Ltd,Celia Brooks Brown,True
+22,If I'd Known Then What I Know Now: Why Not Learn from the Mistakes of Others? : You Can't Afford to Make Them All Yourself,1F Section: 19,1879384493,Cypress House,J. R. Parrish,False
+23,Mary-Kate &amp; Ashley Switching Goals (Mary-Kate and Ashley Starring in),2F Section: 15,0061076031,HarperEntertainment,Mary-Kate &amp; Ashley Olsen,False
+24,Tell Me This Isn't Happening,3F Section: 10,0439095026,Scholastic,Robynn Clairday,False
+25,Flood : Mississippi 1927,1F Section: 22,0689821166,Aladdin,Kathleen Duey,False
+26,Wild Animus,2F Section: 2,0971880107,Too Far,Rich Shapero,False
+27,Airframe,1F Section: 21,0345402871,Ballantine Books,Michael Crichton,True
+28,Timeline,1F Section: 24,0345417623,Ballantine Books,MICHAEL CRICHTON,False
+29,OUT OF THE SILENT PLANET,2F Section: 9,0684823802,Scribner,C.S. Lewis,False
+30,Prague : A Novel,2F Section: 11,0375759778,Random House Trade Paperbacks,ARTHUR PHILLIPS,False
+31,Chocolate Jesus,1F Section: 23,0425163091,Berkley Publishing Group,Stephan Jaramillo,False
+32,Wie Barney es sieht.,2F Section: 3,3404921038,LÃ?Â¼bbe,Mordecai Richler,False
+33,Der Fluch der Kaiserin. Ein Richter- Di- Roman.,3F Section: 4,3442353866,Goldmann,Eleanor Cooney,False
+34,Sturmzeit. Roman.,2F Section: 28,3442410665,Goldmann,Charlotte Link,False
+35,Tage der Unschuld.,2F Section: 25,3442446937,Goldmann,Richard North Patterson,False
+36,Lying Awake,3F Section: 15,0375406328,Alfred A. Knopf,Mark Salzman,False
+37,To Kill a Mockingbird,1F Section: 6,0446310786,Little Brown &amp; Company,Harper Lee,False
+38,Seabiscuit: An American Legend,3F Section: 20,0449005615,Ballantine Books,LAURA HILLENBRAND,False
+39,Pigs in Heaven,2F Section: 8,0060168013,Harpercollins,Barbara Kingsolver,False
+40,Miss Zukas and the Raven's Dance,3F Section: 7,038078243X,Avon,Jo Dereske,False
+41,Pride and Prejudice,1F Section: 14,055321215X,Bantam,Jane Austen,False
+42,The Therapeutic Touch: How to Use Your Hands to Help or to Heal,3F Section: 14,067176537X,Fireside,Dolores Krieger,False
+43,Downtown,3F Section: 1,0061099686,HarperTorch,Anne Rivers Siddons,False
+44,Icebound,1F Section: 9,0553582909,Bantam Books,Dean R. Koontz,False
+45,I'll Be Seeing You,2F Section: 3,0671888587,Pocket,Mary Higgins Clark,False
+46,From the Corner of His Eye,3F Section: 11,0553582747,Bantam Books,Dean Koontz,False
+47,Isle of Dogs,2F Section: 0,0425182908,Berkley Publishing Group,Patricia Cornwell,False
+48,Purity in Death,2F Section: 2,042518630X,Berkley Publishing Group,J.D. Robb,False
+49,This Year It Will Be Different: And Other Stories,2F Section: 20,0440223571,Dell,Maeve Binchy,False
+50,Proxies,1F Section: 9,0812523873,Tor Books,Laura J. Mixon,False
+51,Left Behind: A Novel of the Earth's Last Days (Left Behind #1),3F Section: 27,0842342702,Tyndale House Publishers,Tim Lahaye,False
+52,The Street Lawyer,1F Section: 12,0440225701,Dell,JOHN GRISHAM,False
+53,Love Medicine and Miracles,1F Section: 17,0060914068,HarperCollins Publishers,M.D. Bernie S. Siegel,False
+54,All the King's Men,1F Section: 8,0156047624,Harvest Books,Robert Penn Warren,False
+55,Pacific Northwest,1F Section: 16,0245542957,Chambers Harrap Publishers Ltd,Hans Johannes Hoefer,False
+56,A Soldier of the Great War,1F Section: 12,0380715899,Avon Books,Mark Helprin,False
+57,Getting Well Again,2F Section: 10,0553280333,Bantam,O. Carol Simonton Md,False
+58,Northwest Wines and Wineries,2F Section: 26,0961769947,Speed Graphics,Chuck Hill,False
+59,An Atmosphere of Eternity: Stories of India,1F Section: 22,0964778319,Sunflower Press,David Iglehart,False
+60,LONESOME DOVE,2F Section: 24,0671623249,Pocket,Larry McMurtry,True
+61,Shabanu: Daughter of the Wind (Border Trilogy),1F Section: 17,0679810307,Laurel Leaf,SUZANNE FISHER STAPLES,False
+62,Haveli (Laurel Leaf Books),3F Section: 7,0679865691,Laurel Leaf,SUZANNE FISHER STAPLES,False
+63,Lieux dits,1F Section: 6,2070423204,Gallimard,Michel Tournier,False
+64,The Dragons of Eden: Speculations on the Evolution of Human Intelligence,3F Section: 23,0345260317,Ballantine Books,Carl Sagan,False
+65,The yawning heights,2F Section: 15,0394743741,Random House,Aleksandr Zinoviev,False
+66,Breathing Lessons,3F Section: 5,042511774X,Berkley Publishing Group,Anne Tyler,False
+67,The Joy Luck Club,3F Section: 22,0804106304,Prentice Hall (K-12),Amy Tan,False
+68,Heart of Darkness (Wordsworth Collection),1F Section: 11,1853262404,NTC/Contemporary Publishing Company,Joseph Conrad,False
+69,The Angel Is Near,2F Section: 1,0312970242,St. Martin's Press,Deepak Chopra,False
+70,Tess of the D'Urbervilles (Wordsworth Classics),3F Section: 4,1853260053,NTC/Contemporary Publishing Company,Thomas Hardy,False
+71,The Adventures of Drew and Ellie: The Magical Dress,3F Section: 8,1414035004,1stBooks Library,Charles Noland,False
+72,The Accidental Virgin,1F Section: 1,0060938412,Avon Trade,Valerie Frankel,False
+73,The Tao of Pooh,1F Section: 22,0140067477,Penguin Books,Benjamin Hoff,False
+74,Seabiscuit,2F Section: 2,0345465083,Ballantine Books,LAURA HILLENBRAND,False
+75,The Prince,1F Section: 22,0451625889,Signet Book,Niccolo Machiavelli,False
+76,Life's Little Instruction Book (Life's Little Instruction Books (Paperback)),2F Section: 11,1558531025,Thomas Nelson,H. Jackson Brown,False
+77,Starship Troopers,2F Section: 29,0441783589,Ace Books,Robert A. Heinlein,False
+78,The Ruby in the Smoke (Sally Lockhart Trilogy Book 1),2F Section: 29,0394895894,Laurel Leaf,PHILIP PULLMAN,False
+79,Black Beauty (Illustrated Classics),1F Section: 18,1569871213,Landoll,Anna Sewell,False
+80,Anil's Ghost,2F Section: 5,0375410538,Knopf,MICHAEL ONDAATJE,False
+81,Prescription for Terror,2F Section: 19,0966986105,Andrew Scott Publishers,Sandra Levy Ceren,False
+82,Modern Manners: An Etiquette Book for Rude People,2F Section: 16,087113375X,Atlantic Monthly Press,P.J. O'Rourke,False
+83,Turning Thirty,2F Section: 28,0340767936,Hodder &amp; Stoughton General Division,Mike Gayle,False
+84,Decipher,2F Section: 25,0743403843,Simon &amp; Schuster (Trade Division),Stel Pavlou,False
+85,My First Cousin Once Removed: Money Madness and the Family of Robert Lowell,2F Section: 26,0060930365,Perennial,Sarah Payne Stuart,False
+86,Standing Firm: A Vice-Presidential Memoir,1F Section: 20,0060177586,Harpercollins,Dan Quayle,False
+87,Team Bush : Leadership Lessons from the Bush White House,2F Section: 22,0071416331,McGraw-Hill,Donald F. Kettl,False
+88,The Right Man : The Surprise Presidency of George W. Bush,1F Section: 1,0375509038,Random House,DAVID FRUM,False
+89,Daybreakers Louis Lamour Collection,1F Section: 18,0553062042,Bantam Doubleday Dell,Louis Lamour,False
+90,The Catcher in the Rye,1F Section: 26,0316769487,Little Brown,J.D. Salinger,False
+91,El Senor De Los Anillos: LA Comunidad Del Anillo (Lord of the Rings (Spanish)),2F Section: 14,8445071408,Minotauro,J. R. R. Tolkien,True
+92,El Senor De Los Anillos: Las DOS Torres (Lord of the Rings (Paperback)),3F Section: 5,8445071769,Minotauro,J. R. R. Tolkien,False
+93,El Senor De Los Anillos: El Retorno Del Rey (Tolkien J. R. R. Lord of the Rings. 3.),3F Section: 12,8445071777,Distribooks,J. R. R. Tolkien,False
+94,Midnight in the Garden of Good and Evil: A Savannah Story,3F Section: 26,0679429220,Random House,John Berendt,False
+95,Pretend You Don't See Her,2F Section: 26,0671867156,Pocket,Mary Higgins Clark,False
+96,Fast Women,1F Section: 18,0312252617,St. Martin's Press,Jennifer Crusie,False
+97,Female Intelligence,3F Section: 12,0312261594,St. Martin's Press,Jane Heller,False
+98,Pasquale's Nose: Idle Days in an Italian Town,1F Section: 8,0316748641,Back Bay Books,Michael Rips,False
+99,The Gospel of Judas: A Novel,3F Section: 0,0316973742,Back Bay Books,Simon Mawer,False
+100,Prize Stories 1987: The O'Henry Awards,2F Section: 10,0385235941,Doubleday Books,William Abrahams,False
+101,Rich Dad Poor Dad: What the Rich Teach Their Kids About Money--That the Poor and Middle Class Do Not!,3F Section: 7,0446677450,Warner Books,Robert T. Kiyosaki,False
+102,The Pillars of the Earth,1F Section: 29,0451166892,Signet Book,Ken Follett,False
+103,McDonald's: Behind the Arches,2F Section: 27,0553347594,Bantam,John F. Love,False
+104,Creating Wealth : Retire in Ten Years Using Allen's Seven Principles of Wealth!,1F Section: 11,0671621009,Fireside,Robert G. Allen,False
+105,Corelli's Mandolin : A Novel,2F Section: 9,067976397X,Vintage,LOUIS DE BERNIERES,False
+106,Love Miracles and Animal Healing : A heartwarming look at the spiritual bond between animals and humans,2F Section: 25,0684822733,Fireside,Pam Proctor,False
+107,The Five People You Meet in Heaven,1F Section: 11,0786868716,Hyperion,Mitch Albom,False
+108,Tu Nombre Escrito En El Agua (La Sonrisa Vertical),1F Section: 29,8472238822,Tusquets,Irene Gonzalez Frei,False
+109,Relics (Star Trek: The Next Generation),2F Section: 18,0671864769,Star Trek,Michael Jan Friedman,False
+110,Bless The Beasts And Children : Bless The Beasts And Children,3F Section: 18,0671521519,Pocket,Glendon Swarthout,False
+111,The Touch of Your Shadow the Whisper of Your Name (Babylon 5 Book 5),3F Section: 27,0440222303,Dell,Neal Barrett Jr.,False
+112,Blood Oath,1F Section: 11,0312953453,St. Martin's Press,David Morrell,False
+113,The Alibi,1F Section: 8,0446608653,Warner Books,Sandra Brown,False
+114,The Beach House,2F Section: 23,0446612545,Warner Books,James Patterson,False
+115,A Kiss Remembered,1F Section: 9,0446612618,Warner Books,Sandra Brown,False
+116,The Short Forever,1F Section: 12,0451208080,Signet Book,Stuart Woods,False
+117,Dead Aim,2F Section: 19,0553584383,Bantam Books,IRIS JOHANSEN,False
+118,Angels &amp; Demons,3F Section: 11,0671027360,Pocket Star,Dan Brown,False
+119,The Deal,2F Section: 9,0812575954,Tor Books (Mm),Joe Hutsko,False
+120,All He Ever Wanted: A Novel,3F Section: 11,0316735736,Back Bay Books,Anita Shreve,False
+121,Every Breath You Take : A True Story of Obsession Revenge and Murder,3F Section: 16,0743439740,Pocket,Ann Rule,False
+122,If I Ever Get Back to Georgia I'm Gonna Nail My Feet to the Ground,1F Section: 17,0345372700,Ballantine Books,LEWIS GRIZZARD,False
+123,The Mosquito Coast,3F Section: 6,0380619458,Harper Mass Market Paperbacks (Mm),Paul Theroux,False
+124,If Love Were Oil I'd Be About a Quart Low,3F Section: 13,0446325805,Warner Books (Mm),Lewis Grizzard,False
+125,Goodbye My Little Ones: The True Story of a Murderous Mother and Five Innocent Victims,2F Section: 24,0451406923,Onyx Books,Charles Hickey,False
+126,The Girl Who Loved Tom Gordon,3F Section: 22,0671042858,Pocket,Stephen King,False
+127,Bringing Down the House: The Inside Story of Six M.I.T. Students Who Took Vegas for Millions,3F Section: 9,0743249992,Free Press,Ben Mezrich,False
+128,The Oneprince (The Redaemian Chronicles Book 1),3F Section: 2,0840734530,Thomas Nelson Inc,Bill Hand,False
+129,The Sum of All Fears,2F Section: 12,0425184226,Berkley Publishing Group,Tom Clancy,False
+130,Care Packages : Letters to Christopher Reeve from Strangers and Other Friends,1F Section: 19,0375500766,Random House,DANA REEVE,False
+131,O Deus Das Pequenas Coisas,1F Section: 4,9724119378,Edicoes Asa,Roy,False
+132,Lady in Green/Minor Indiscretions (Signet Regency Romance),2F Section: 11,0451205197,Signet Book,Barbara Metzger,False
+133,One Hundred Years of Solitude,1F Section: 20,0060929790,Perennial,Gabriel Garcia Marquez,False
+134,Little Altars Everywhere: A Novel,3F Section: 7,0060976845,Perennial,Rebecca Wells,False
+135,Coyote Waits (Joe Leaphorn/Jim Chee Novels),1F Section: 15,0061099325,HarperTorch,Tony Hillerman,False
+136,Before I Say Good-Bye,3F Section: 18,0671004573,Pocket,Mary Higgins Clark,False
+137,Slow Waltz in Cedar Bend,3F Section: 13,0446601640,Warner Books,Robert James Waller,False
+138,Twenty Minute Retreats: Revive Your Spirits in Just Minutes a Day (A Pan Self-discovery Title),2F Section: 16,0330484516,Pan Macmillan,Rachel Harris,False
+139,Atonement : A Novel,1F Section: 15,038572179X,Anchor,IAN MCEWAN,False
+140,Next: The Future Just Happened,3F Section: 12,0393020371,W.W. Norton &amp; Company,Michael Lewis,False
+141,The Angelic Darkness,1F Section: 26,1900850303,Arcadia Books,Richard Zimler,False
+142,The Soulbane Stratagem,1F Section: 4,1903019699,John Hunt Publishing Ltd.,Norman Jetmundsen,False
+143,Gangster,1F Section: 25,0345425294,Fawcett Books,Lorenzo Carcaterra,True
+144,Hush,3F Section: 19,0451410319,Onyx Books,Anne Frasier,False
+145,Whisper of Evil (Hooper Kay. Evil Trilogy.),1F Section: 28,0553583468,Bantam Books,Kay Hooper,False
+146,Temor y Temblor,2F Section: 8,8420639133,Alianza,Soren Kierkegaard,False
+147,Estudios sobre el amor,1F Section: 5,8476409419,Downtown Book Center,Jose Ortega Y Gaset,True
+148,Rebecca,3F Section: 3,0380778556,Avon,Daphne Du Maurier,False
+149,Scarlet Letter,2F Section: 16,0451525221,Signet Book,Nathaniel Hawthorne,False
+150,Keep It Simple: And Get More Out of Life,1F Section: 13,0002740230,Trafalgar Square,Nick Page,False
+151,Diary of a Mad Mom-To-Be,2F Section: 17,0385336772,Delta,Laura Wolf,False
+152,Locked in Time (Laurel Leaf Books),1F Section: 10,0440949424,Laure Leaf,LOIS DUNCAN,False
+153,Contact,2F Section: 1,0505524996,Love Spell,Susan Grant,False
+154,The Brimstone Wedding,3F Section: 21,0140252800,Penguin Books Ltd,Barbara Vine,False
+155,The Catswold Portal,2F Section: 9,0451452755,Roc,Shirley Rousseau Murphy,False
+156,Through Wolf's Eyes (Wolf),3F Section: 13,0812575482,Tor Fantasy,Jane Lindskold,False
+157,Puerto Vallarta Squeeze,2F Section: 8,044651747X,Warner Books,Robert James Waller,False
+158,Tree Grows In Brooklyn,1F Section: 9,0060801263,Harpercollins Publisher,Betty Smith,False
+159,Cybill Disobedience: How I Survived Beauty Pageants Elvis Sex Bruce Willis Lies Marriage Motherhood Hollywood and the Irrepressible Urge to Say What I Think,3F Section: 4,0061030147,Avon Books,Cybill Shepherd,False
+160,Snow Angels,3F Section: 25,0140250964,Penguin Books,Stewart O'Nan,False
+161,Wish You Well,3F Section: 24,0446527165,Warner Books,David Baldacci,False
+162,The Hitchhiker's Guide to the Galaxy,2F Section: 2,0671461494,Pocket,Douglas Adams,False
+163,Crow Lake (Today Show Book Club #7),1F Section: 28,0385337639,Delta,Mary Lawson,False
+164,My Antonia,2F Section: 29,039575514X,Mariner Books,Willa Cather,False
+165,Pen Pals,3F Section: 2,0451206673,Signet Book,Olivia Goldsmith,False
+166,Bridget Jones's Diary,3F Section: 15,0330332775,Picador (UK),Helen Fielding,False
+167,Pride and Prejudice (Dover Thrift Editions),3F Section: 4,0486284735,Dover Publications,Jane Austen,False
+168,EYE ON CRIME: HARDY BOYS #153,1F Section: 24,0671021745,Aladdin,Franklin W. Dixon,False
+169,Skin And Bones,2F Section: 24,0671047612,Aladdin,Franklin W. Dixon,False
+170,LAW OF THE JUNGLE (HARDY BOYS CASE FILE 105) : LAW OF THE JUNGLE (Hardy Boys The),1F Section: 25,0671504282,Simon Pulse,Franklin W. Dixon,False
+171,The Cat Who Came to Breakfast (Cat Who... (Hardcover)),2F Section: 23,0399138684,Putnam Pub Group,Lilian Jackson Braun,False
+172,If Singleness Is a Gift What's the Return Policy?,2F Section: 18,0785263292,Nelson Books,Holly Virden,False
+173,Always Daddy's Girl: Understanding Your Father's Impact on Who You Are,2F Section: 8,0830714014,Regal Books,H. Norman Wright,False
+174,Night Mare (Xanth Novels (Paperback)),3F Section: 28,0345354931,Del Rey Books,Piers Anthony,False
+175,The Martian Chronicles,3F Section: 4,0553278223,Spectra,RAY BRADBURY,False
+176,Kabale Und Liebe,3F Section: 21,3150000335,Philipp Reclam Jun Verlag GmbH,Schiller,False
+177,Der illustrierte Mann. ErzÃ?Â¤hlungen.,2F Section: 5,3257203659,Diogenes,Ray Bradbury,False
+178,Der KÃ?Â¶nig in Gelb.,1F Section: 6,3257207522,Diogenes Verlag,Raymond Chandler,False
+179,Fahrenheit 451,2F Section: 23,3257208626,Distribooks Inc,Ray Bradbury,True
+180,Die Mars- Chroniken. Roman in ErzÃ?Â¤hlungen.,2F Section: 29,3257208634,Diogenes Verlag,Ray Bradbury,False
+181,Das BÃ?Â¶se kommt auf leisen Sohlen.,1F Section: 18,3257208669,Diogenes,Ray Bradbury,False
+182,LÃ?Â¶wenzahnwein. Roman.,1F Section: 0,3257210450,Diogenes Verlag,Ray Bradbury,False
+183,Das Kind von morgen. ErzÃ?Â¤hlungen.,1F Section: 29,3257212054,Diogenes Verlag,Ray Bradbury,False
+184,Die Mechanismen der Freude. ErzÃ?Â¤hlungen.,2F Section: 3,3257212429,Diogenes Verlag,Ray Bradbury,False
+185,Familientreffen. ErzÃ?Â¤hlungen.,3F Section: 25,3257214154,Diogenes Verlag,Ray Bradbury,False
+186,Der Tod kommt schnell in Mexico. ErzÃ?Â¤hlungen.,1F Section: 4,3257216416,Diogenes Verlag,Ray Bradbury,False
+187,Veronika Deschliesst Zu Sterben / Vernika Decides to Die,1F Section: 6,3257233051,Distribooks,Paolo Coelho,False
+188,Die Liebe in Den Zelten,1F Section: 9,342311360X,Deutscher Taschenbuch Verlag (DTV),Gabriel Garcia Marquez,False
+189,Die Klone der Joanna May. Roman.,2F Section: 16,3423116714,Dtv,Fay Weldon,False
+190,Ist mein Hintern wirklich so dick? Tagebuch einer empfindsamen Frau.,2F Section: 12,3423241489,Dtv,Arabella Weir,False
+191,Haifischfrauen.,1F Section: 6,3426605686,Droemersche Verlagsanstalt Th. Knaur Nachf. GmbH &amp; Co.,Kiana Davenport,False
+192,Die Cappuccino- Jahre. Aus dem Tagebuch des Adrian Mole.,2F Section: 14,3453212150,Heyne,Sue Townsend,False
+193,Schwarzer Tee mit drei StÃ¼ck Zucker,2F Section: 25,3462021095,Kiepenheuer &amp; Witsch,Renan Demirkan,False
+194,QuerschÃ?Â¼sse - Downsize This!,3F Section: 11,3492045642,Piper,Michael Moore,False
+195,Die Korrekturen.,1F Section: 1,3498020862,Rowohlt Reinbek,Jonathan Franzen,False
+196,Neun ErzÃ?Â¤hlungen.,3F Section: 5,3499110695,Rowohlt Tb.,Jerome D. Salinger,False
+197,Hebt den Dachbalken hoch Zimmerleute / Seymour wird vorgestellt.,3F Section: 0,3499151502,Rowohlt Tb.,Jerome D. Salinger,False
+198,Ulysses (Ã?Â?bersetzg. WollschlÃ?Â¤ger). ( Neue Folge 100).,3F Section: 3,3518111000,Suhrkamp,James Joyce,False
+199,Eine ganz normale AffÃ?Â¤re.,2F Section: 22,3548254268,Ullstein Tb,Joanna Trollope,False
+200,Das Intimleben des Adrian Mole 13 3/4 Jahre. cbt. ( Ab 14 J.).,2F Section: 4,3570300099,Bertelsmann MÃ?Â¼nchen,Sue Townsend,False
+201,Das Buch der lÃ?Â¤cherlichen Liebe.,2F Section: 23,3596292646,Fischer (Tb.) Frankfurt,Milan Kundera,False
+202,The God of Small Things,2F Section: 18,0060977493,Perennial,Arundhati Roy,False
+203,The James Dean Affair: A Neil Gulliver &amp; Stevie Marriner Novel,2F Section: 0,0312872682,St Martins Pr,Robert S. Levinson,False
+204,The Big Bad Wolf: A Novel,2F Section: 8,0316602906,Little Brown,James Patterson,False
+205,Four Blind Mice,3F Section: 9,0316693006,Little Brown,James Patterson,False
+206,Private Screening,3F Section: 11,0345311396,Ballantine Books,Richard North Patterson,False
+207,Congo,1F Section: 0,0345378490,Ballantine Books,Michael Crichton,False
+208,Protect and Defend,3F Section: 11,0345404793,Ballantine Books,Richard North Patterson,False
+209,The Tall Pine Polka,2F Section: 19,0345433173,Ballantine Books,Lorna Landvik,False
+210,Memoirs of a Geisha,1F Section: 25,0375400117,Alfred A. Knopf,Arthur Golden,False
+211,Plainsong (Vintage Contemporaries),3F Section: 2,0375705856,Vintage,KENT HARUF,False
+212,Body of Evidence (Kay Scarpetta Mysteries (Paperback)),1F Section: 23,0380717018,Avon,Patricia D. Cornwell,False
+213,All That Remains (Kay Scarpetta Mysteries (Paperback)),2F Section: 18,0380718332,Avon,Patricia D. Cornwell,False
+214,The Case of the Lost Look-Alike (An Avon Camelot Book),1F Section: 21,0380754509,Avon Books,Carol J. Farley,False
+215,Petals on the River,2F Section: 0,038076654X,Avon Trade,Kathleen E. Woodiwiss,False
+216,The Elusive Flame,2F Section: 12,0380807866,Avon,Kathleen E. Woodiwiss,False
+217,Legacy of Silence,2F Section: 11,0385316895,Bantam Dell Pub Group,Belva Plain,False
+218,The Brethren,3F Section: 8,0385497466,Doubleday,JOHN GRISHAM,False
+219,The King of Torts,1F Section: 15,0385508042,Doubleday Books,John Grisham,False
+220,The Curious Incident of the Dog in the Night-Time : A Novel,2F Section: 24,0385509456,Doubleday,MARK HADDON,False
+221,Bleachers,3F Section: 19,0385511612,Doubleday,John Grisham,False
+222,Sisterhood of the Traveling Pants,1F Section: 1,0385730586,Delacorte Books for Young Readers,ANN BRASHARES,False
+223,Only Love (Magical Love),2F Section: 11,0425164403,Berkley Publishing Group,Erich Segal,False
+224,All or Nothing (Wheeler Large Print Books),3F Section: 12,0440234964,Island,Elizabeth Adler,False
+225,Roses Are Red (Alex Cross Novels),2F Section: 14,0446605484,Warner Vision,James Patterson,False
+226,The Rescue,1F Section: 14,0446610399,Warner Books,Nicholas Sparks,False
+227,Manhattan Hunt Club,2F Section: 2,0449006522,Ballantine Books,JOHN SAUL,False
+228,Patty Jane's House of Curl (Ballantine Reader's Circle),1F Section: 10,0449911004,Ballantine Books,LORNA LANDVIK,False
+229,Pet Sematary,3F Section: 10,0451162072,Signet Book,Stephen King,False
+230,Silent Snow,1F Section: 4,0451186648,Signet Book,Steve Thayer,False
+231,Girl with a Pearl Earring,1F Section: 27,0452282152,Plume Books,Tracy Chevalier,False
+232,Summer of Storms,3F Section: 23,051513290X,Jove Books,Judith Kelman,False
+233,The Patient,1F Section: 27,0553580388,Bantam Books,Michael Palmer,False
+234,Demona's Revenge (Gargoyles No. 2),2F Section: 27,0590598848,Scholastic,Francine Hughes,False
+235,Clifford's Sports Day,1F Section: 27,0590629719,Scholastic,Norman Bridwell,False
+236,Postmortem (Kay Scarpetta Mysteries (Paperback)),2F Section: 5,0671023616,Pocket,Patricia Cornwell,False
+237,Deception Point,1F Section: 3,0671027387,Pocket,Dan Brown,False
+238,Tis : A Memoir,3F Section: 3,0684848783,Scribner,Frank McCourt,False
+239,Angels &amp; Demons,3F Section: 21,0743486226,Atria,Dan Brown,False
+240,A Monk Swimming,3F Section: 20,0786863986,Hyperion,Malachy McCourt,True
+241,Crazy Horse,3F Section: 5,0803251718,University of Nebraska Press,Mari Sandoz,False
+242,The Silent Cry (William Monk Novels (Paperback)),2F Section: 7,0804117934,Ivy Books,Anne Perry,False
+243,The Kalahari Typing School for Men (No. 1 Ladies' Detective Agency),3F Section: 0,140003180X,Anchor,ALEXANDER MCCALL SMITH,False
+244,Chicken Soup for the Soul (Chicken Soup for the Soul),3F Section: 1,155874262X,Health Communications,Jack Canfield,False
+245,Wicked: The Life and Times of the Wicked Witch of the West,2F Section: 16,0060987103,Regan Books,Gregory Maguire,False
+246,Life of Pi,3F Section: 25,0151008116,Harcourt,Yann Martel,False
+247,A Judgement in Stone,1F Section: 15,0375704965,Vintage Books USA,Ruth Rendell,False
+248,Lies and the Lying Liars Who Tell Them: A Fair and Balanced Look at the Right,3F Section: 6,0525947647,Dutton Books,Al Franken,True
+249,Secret History,3F Section: 14,0804111359,Ballantine Books,DONNA TARTT,False
+250,Chicken Soup for the Woman's Soul (Chicken Soup for the Soul Series (Paper)),1F Section: 5,1558744150,Health Communications,Jack Canfield,False
+251,Great Expectations (Heinemann Guided Readers),3F Section: 28,0435272683,Delta Systems,John Milne,False
+252,The Weight of Water,3F Section: 26,0316782505,Little Brown,Anita Shreve,False
+253,Moving Pictures (Discworld Novels (Paperback)),2F Section: 19,006102063X,HarperTorch,Terry Pratchett,False
+254,Night Watch,2F Section: 9,0060013117,HarperCollins,Terry Pratchett,False
+255,Thief of Time,2F Section: 29,0060199563,HarperCollins Publishers,Terry Pratchett,False
+256,Charlotte's Web Book and Charm (Charming Classics),3F Section: 25,006052779X,HarperFestival,E. B. White,False
+257,Peter Pan: The Original Story (Peter Pan),1F Section: 14,0060563079,HarperFestival,J. M. Barrie,False
+258,My Friend Flicka,1F Section: 19,0060809027,Perennial,Mary O'Hara,False
+259,The Last Hero : A Discworld Fable (Discworld Novels (Hardcover)),2F Section: 7,0061040967,HarperCollins,Terry Pratchett,False
+260,Jingo: A Discworld Novel (Discworld Series/Terry Pratchett),3F Section: 8,0061050474,HarperPrism,Terry Pratchett,False
+261,Maskerade: A Novel of Discworld (Pratchett Terry. Discworld Series (New York N.Y.).),3F Section: 5,0061052515,HarperPrism,Terry Pratchett,False
+262,Interesting Times: A Novel of Discworld,2F Section: 11,0061052523,Harpercollins,Terry Pratchett,False
+263,On the Bright Side I'm Now the Girlfriend of a Sex God: Further Confessions of Georgia Nicolson,3F Section: 11,0064472264,HarperTempest,Louise Rennison,False
+264,Mansfield Park (Penguin Popular Classics),3F Section: 26,0140620664,Penguin Books Ltd,Jane Austen,False
+265,The Wind in the Willows,3F Section: 10,0312148267,St. Martin's Press,Kenneth Grahame,False
+266,The Winter King: A Novel of Arthur (The Warlord Chronicles: I),3F Section: 13,0312156960,St. Martin's Griffin,Bernard Cornwell,False
+267,Moonheart (Newford),2F Section: 25,0312890044,Orb Books,Charles de Lint,False
+268,The King of Elfland's Daughter (Del Rey Impact),2F Section: 1,034543191X,Del Rey Books,Edward John Moreton Drax Plunkett Dunsany,False
+269,Powder and Patch,2F Section: 26,0373836023,Harlequin,Georgette Heyer,False
+270,The Picture of Dorian Gray (Modern Library (Paperback)),2F Section: 7,0375751513,Modern Library,OSCAR WILDE,False
+271,The Iron Giant,3F Section: 9,0375801677,Knopf Books for Young Readers,Ted Hughes,False
+272,James and the Giant Peach,3F Section: 15,0375814248,Knopf Books for Young Readers,ROALD DAHL,False
+273,The Amber Spyglass (His Dark Materials Book 3),1F Section: 12,0375823352,Knopf Books for Young Readers,PHILIP PULLMAN,False
+274,The Golden Compass (His Dark Materials Book 1),3F Section: 0,037582345X,Knopf Books for Young Readers,PHILIP PULLMAN,True
+275,The Subtle Knife (His Dark Materials Book 2),2F Section: 19,0375823468,Knopf Books for Young Readers,PHILIP PULLMAN,False
+276,The Adrian Mole Diaries : The Secret Diary of Adrian Mole Aged 13 3/4 : The Growing Pains of Adrian Mole,3F Section: 24,0380730448,Perennial,Sue Townsend,False
+277,Martian Chronicles,2F Section: 2,0380973839,William Morrow,Ray Bradbury,False
+278,The Great God Pan,3F Section: 23,0385327773,Wendy Lamb Books,Donna Jo Napoli,False
+279,Possession: A Romance,1F Section: 28,0394586239,Random House Inc,A. S. Byatt,False
+280,Born Confused,3F Section: 25,0439510112,Push,Tanuja Desai Hidier,False
+281,Confessions of a Shopaholic,1F Section: 24,0440241413,Dell,SOPHIE KINSELLA,False
+282,Making Minty Malone,1F Section: 24,0451409256,Onyx Books,Isabel Wolff,False
+283,Little Women (Signet Classic),3F Section: 8,0451523415,Signet Classics,Louisa May Alcott,False
+284,Emma (Signet Classics (Paperback)),1F Section: 21,0451526279,Signet Classics,Jane Austen,False
+285,Animal Farm,3F Section: 7,0451526341,Signet,George Orwell,False
+286,Great Expectations (Dover Thrift Editions),2F Section: 19,0486415864,Dover Publications,Charles Dickens,False
+287,Eva Luna,1F Section: 27,0553280589,Bantam Books,Isabel Allende,False
+288,Poisonwood Bible Edition Uk,3F Section: 28,0571197639,Faber Faber Inc,Barbara Kingsolver,False
+289,The Green Man : Tales from the Mythic Forest,2F Section: 26,0670035262,Viking Juvenile,Ellen Datlow,False
+290,Nicholas Nickleby (Everyman's Library),1F Section: 16,0679423079,Alfred A. Knopf,Charles Dickens,False
+291,Angels &amp; Insects : Two Novellas,3F Section: 20,0679751343,Vintage,A.S. BYATT,False
+292,Catch 22,2F Section: 28,0684833395,Simon &amp; Schuster,Joseph Heller,False
+293,The Forsyte Saga : The Man of Property and In Chancery,3F Section: 0,0743245024,Touchstone,John Galsworthy,False
+294,The Enchanted Wood,2F Section: 0,0749748001,Egmont Childrens Books,Enid Blyton,False
+295,The Folk of the Faraway Tree,2F Section: 14,0749748028,Egmont Childrens Books,Enid Blyton,False
+296,Angels and Visitations: A Miscellany,3F Section: 15,0963094424,Dreamhaven Books,Neil Gaiman,False
+297,League of Extraordinary Gentlemen Vol. 2 (Comic),1F Section: 16,1401201172,DC Comics,Alan Moore,False
+298,Preludes and Nocturnes (Sandman Book 1),2F Section: 15,1563892278,DC Comics,Neil Gaiman,False
+299,The League of Extraordinary Gentlemen Vol. 1,1F Section: 6,1563898586,DC Comics,Alan Moore,False
+300,Harlequin Valentine,1F Section: 21,156971620X,Dark Horse Comics,Neil Gaiman,False
+301,Alpha Teach Yourself American Sign Language in 24 Hours (Alpha Teach Yourself in 24 Hours),1F Section: 0,1592571301,Alpha Books,Trudy Suggs,False
+302,A Man in Full,3F Section: 9,0374270325,Farrar Straus &amp; Giroux,Tom Wolfe,False
+303,The Miracle Life of Edgar Mint: A Novel,3F Section: 14,0375719180,Vintage Books USA,Brady Udall,False
+304,October Sky: A Memoir,3F Section: 24,0440235502,Dell,Homer Hickam,False
+305,A Painted House,2F Section: 26,044023722X,Dell Publishing Company,John Grisham,False
+306,The Romance Reader,3F Section: 29,1573225487,Riverhead Books,Pearl Abraham,False
+307,Far from the Madding Crowd (Wordsworth Classics),2F Section: 29,1853260673,NTC/Contemporary Publishing Company,Thomas Hardy,False
+308,The Perfect Storm : A True Story of Men Against the Sea,1F Section: 6,0060977477,Perennial,Sebastian Junger,False
+309,The Battle for God,1F Section: 12,0345391691,Ballantine Books,Karen Armstrong,False
+310,Sappho: A New Translation,1F Section: 17,0520011171,University of California Press,Mary Barnard,False
+311,The Postman (Bantam Classics),1F Section: 2,0553278746,Spectra Books,David Brin,True
+312,The Tortilla Curtain,3F Section: 10,0670856045,Viking Books,T. Coraghessan Boyle,False
+313,Symposium,2F Section: 12,0872200760,Hackett Pub Co Inc,Paul Woodruff,False
+314,The What's Happening to My Body? Book for Boys: A Growing Up Guide for Parents and Sons,3F Section: 1,0937858994,W W Norton &amp; Co,Lynda Madaras,False
+315,OBJECT AFFECTION,1F Section: 8,0671649949,Washington Square Press,Stephen McCauley,False
+316,The Journey Home,2F Section: 13,0590431110,Scholastic Paperbacks (Mm),Isabelle Holland,False
+317,Taking the Ferry Home,3F Section: 19,0064470113,Harpercollins Juvenile Books,Pam Conrad,False
+318,Angel of Hope (Mercy Trilogy),2F Section: 5,0553571486,Starfire,Lurlene McDaniel,False
+319,The Breach,1F Section: 21,0972044205,Last Knight Pub Co,Brian Kaufman,False
+320,Neanderthal: A Novel,3F Section: 4,0312963009,St. Martin's Press,John Darnton,False
+321,A Small Dark Place,1F Section: 6,0345430476,Ballantine Books,Martin Schenk,False
+322,The Rivan Codex : Ancient Texts of THE BELGARIAD and THE MALLOREON,2F Section: 13,0345435869,Del Rey,DAVID EDDINGS,False
+323,Babyhood,1F Section: 24,0380728729,Avon,Paul Reiser,False
+324,Year's Best Fantasy (Year's Best Fantasy),1F Section: 0,038081840X,Eos,David G. Hartwell,False
+325,Dave Barry in Cyberspace,2F Section: 9,0449912302,Ballantine Books,Dave Barry,False
+326,Wolf Moon,1F Section: 22,055329198X,Bantam,John R. Holt,False
+327,The War in Heaven (Eternal Warriors),1F Section: 7,0671018930,Pocket,Theodore Beale,False
+328,Waiting,2F Section: 1,0812541642,Tor Books,Frank M. Robinson,False
+329,Nowhere To Run,2F Section: 21,0312988699,St. Martin's Paperbacks,Mary Jane Clark,False
+330,Frankenstein (Dover Thrift Editions),1F Section: 12,0486282112,Dover Publications,Mary Wollstonecraft Shelley,False
+331,El gust amarg de la cervesa (CollecciÃ³ ClÃ ssica),1F Section: 21,8483007010,Columna,Isabel-Clara SimÃ³,False
+332,Urn Burial,2F Section: 24,0670815373,Viking Children's Books,Robert Westall,False
+333,All Our Yesterdays (Large Print),1F Section: 13,0385313748,Delacorte Press,Robert B. Parker,False
+334,What Shall I Be (Barbie Carryalong),1F Section: 29,1575843366,Reader's Digest,Rita Chapman Works,False
+335,ALL THAT REMAINS,2F Section: 18,0684193957,Scribner,Patricia Cornwell,False
+336,Last Chance to See,2F Section: 15,0345371984,Ballantine Books,Douglas Adams,False
+337,Vinegar Hill (Oprah's Book Club (Paperback)),1F Section: 24,0380730138,Perennial,A. Manette Ansay,False
+338,Affinity,1F Section: 15,1573228737,Riverhead Books,Sarah Waters,True
+339,Diario de Ana Frank,3F Section: 27,9681500555,Editores Mexicanos Unidos S.A.,Anne Frank,False
+340,Desert Notes/River Notes,3F Section: 0,0380711109,Quill (HarperCollins),Barry Lopez,False
+341,The Best Democracy Money Can Buy: The Truth About Corporate Cons Globalization and High-Finance Fraudsters,3F Section: 11,0452283914,Plume Books,Greg Palast,False
+342,The Hunt for Red October,1F Section: 18,0425120279,Berkley Publishing Group,Tom Clancy,False
+343,The Music Box,1F Section: 9,067153484X,Pocket,Andrea Kane,False
+344,Liberty Falling (Anna Pigeon Mysteries (Paperback)),1F Section: 17,0380728273,Avon,Nevada Barr,False
+345,El Palacio de La Luna,1F Section: 21,8433914545,Anagrama,Paul Auster,False
+346,Mientras Escribo,3F Section: 24,8484509141,Distribooks,Stephen King,False
+347,Killer Market (Deborah Knott Mysteries (Paperback)),1F Section: 6,0446606197,Warner Books,Margaret Maron,False
+348,Remembering Peter Gzowski : A Book of Tributes,2F Section: 26,0771076002,Douglas Gibson Books,EDNA BARKER,False
+349,The Best Canadian Animal Stories: Classic Tales by Master Storytellers,1F Section: 8,0771088191,McClelland &amp; Stewart,Muriel Whitaker,False
+350,Trying to Save Piggy Sneed,3F Section: 8,1559703237,Arcade Publishing,John Irving,False
+351,Herr Der Fliegen (Fiction Poetry and Drama),2F Section: 21,3596214629,Fischer Taschenbuch Verlag GmbH,Golding,False
+352,Seattle Access,1F Section: 11,0062770500,Access Press (HarperCollins),HarperReference,False
+353,REAL GUIDE: CALIFORNIA AND THE WEST COAST (The Real guides),1F Section: 14,0671847546,John Wiley &amp; Sons Inc,LTD,False
+354,Bel Canto,1F Section: 4,0060188731,HarperCollins Publishers,Ann Patchett,False
+355,James and the Giant Peach,3F Section: 20,0140374248,Penguin USA (Paper),Roald Dahl,False
+356,The Secret Life of Bees,1F Section: 20,0142001740,Penguin Books,Sue Monk Kidd,False
+357,What a Wonderful World: A Lifetime of Recordings,3F Section: 28,0195086295,Oxford University Press,Bob Thiele,False
+358,Digital Fortress : A Thriller,2F Section: 24,0312995423,St. Martin's Press,Dan Brown,False
+359,The Ladies of Missalonghi,3F Section: 24,0380704587,Avon,Colleen McCullough,False
+360,Blackberry Wine : A Novel,1F Section: 1,0380815923,Perennial,Joanne Harris,False
+361,The Firm,1F Section: 10,0385416342,Doubleday Books,John Grisham,False
+362,How the Irish Saved Civilization: The Untold Story of Ireland's Heroic Role from the Fall of Rome to the Rise of Medieval Europe (Hinges of History),3F Section: 0,0385418493,Anchor,Thomas Cahill,False
+363,The Client,3F Section: 0,038542471X,Doubleday Books,John Grisham,False
+364,Thieves of Light (Photon : the Ultimate Game on Planet Earth),3F Section: 3,0425098109,Berkley Publishing Group,Michael Hudson,False
+365,Horse Heaven (Ballantine Reader's Circle),2F Section: 2,0449005410,Ballantine Books,Jane Smiley,False
+366,Danger,2F Section: 1,0449202631,Fawcett Books,Dick Francis,False
+367,Proof,2F Section: 26,0449207544,Fawcett Books,Dick Francis,False
+368,Heart of the Sea (Irish Trilogy),3F Section: 22,0515128554,Jove Books,Nora Roberts,False
+369,Mostly Harmless,1F Section: 28,0517577402,Random House Inc,Douglas Adams,False
+370,I Spy: A Book of Picture Riddles,2F Section: 1,0590450875,Scholastic,Jean Marzollo,False
+371,I Spy Spooky Night: A Book of Picture Riddles (I Spy Books),3F Section: 18,0590481371,Scholastic,Walter Wick,False
+372,Lake News,2F Section: 27,067103619X,Pocket,Barbara Delinsky,False
+373,The SKULL BENEATH THE SKIN,1F Section: 6,0684177730,Scribner,P. D. James,False
+374,NEW SHOE,2F Section: 18,0684180200,Scribner Paper Fiction,Arthur William Upfield,False
+375,An Accidental Woman,2F Section: 19,0743411269,Pocket Books,Barbara Delinsky,False
+376,The Snow Garden,3F Section: 10,0743470389,Pocket Star,Christopher Rice,False
+377,The Doorbell Rang (The Best Mysteries of All Time),2F Section: 29,076218857X,Readers Digest Assn,Rex Stout,False
+378,A Year by the Sea: Thoughts of an Unfinished Woman,1F Section: 15,0767905938,Broadway Books,Joan Anderson,False
+379,Though I walk through the valley,3F Section: 5,0800706544,F. H. Revell,Vance Havner,False
+380,Victorious Christians You Should Know,3F Section: 18,0801096677,Baker Book House,Warren W. Wiersbe,False
+381,Life Lessons: Book Of Hebrews,1F Section: 28,0849953014,W Publishing Group,Max Lucado,False
+382,Inside out,2F Section: 11,0891091963,NavPress,Lawrence J Crabb,False
+383,Son Rise: The Miracle Continues,1F Section: 28,0915811537,Pub Group West,Barry Neil Kaufman,False
+384,Unveiled at Last,2F Section: 16,0927545373,YWAM Publishing,Bob Sjogren,False
+385,The Day I Almost Quit,2F Section: 22,1575024179,F.J. Moody,Frederick J. Moody,False
+386,Serving As Senders: How to Care for Your Missionaries While They Are Preparing to Go While They Are on the Field When They Return Home,1F Section: 6,1880185008,Emmaus Road Intl,Neal Pirolo,False
+387,House of Stairs,1F Section: 0,0140345809,Puffin Books,William Sleator,False
+388,The Little Prince,2F Section: 3,0156528207,Harcourt,Antoine de Saint-ExupÃ©ry,False
+389,Jonathan Livingston Seagull,3F Section: 25,0380012863,Avon,Richard Bach,False
+390,The Crystal Handbook,2F Section: 4,0451154916,Signet Book,Kevin Sullivan,False
+391,Simple Wicca (Simple Wisdom Book),3F Section: 5,0785815147,Castle Books,Michele Morgan,False
+392,The Complete Book of Incense Oils &amp; Brews (Llewellyn's Practical Magick),1F Section: 29,0875421288,Llewellyn Publications,Scott Cunningham,False
+393,The Western Mysteries: An Encyclopedic Guide to the Sacred Languages &amp; Magickal Systems of the World : The Key of It All Book II (Key of It All),2F Section: 14,1567184294,Llewellyn Publications,David Allen Hulse,False
+394,Astral Travel for Beginners (For Beginners),3F Section: 26,156718796X,Llewellyn Publications,Richard Webster,False
+395,New Perspectives: Runes,3F Section: 15,1862047626,Harper Collins - UK,Bernard King,False
+396,Rosie'S Walk,3F Section: 8,0020437501,Aladdin,Pat Hutchins,False
+397,Julius Caesar (Oxford School Shakespeare),3F Section: 2,0198320264,Oxford University Press,William Shakespeare,False
+398,Santa Brought A Son : Marrying The Boss's Daughter (Silhouette Romance 1698),1F Section: 13,0373196989,Silhouette,Melissa McClone,False
+399,Marry Me ... Again   Montana Mavericks (Silhouette Special Edition 1558),3F Section: 28,0373245580,Silhouette,Cheryl St. John,False
+400,Alice's Adventures in Wonderland and Through the Looking Glass,1F Section: 12,0451527747,Signet Classics,Lewis Carroll,False
+401,Moonlight Becomes You,1F Section: 21,0671867113,Pocket,Mary Higgins Clark,False
+402,The Adventures of Tom Sawyer,1F Section: 15,0812504208,Tor Books,Mark Twain,False
+403,Divine Secrets of the Ya-Ya Sisterhood : A Novel,1F Section: 26,0060173289,HarperCollins,Rebecca Wells,False
+404,Lakota Woman,3F Section: 24,0060973897,Perennial,Dog Mary Crow,False
+405,The Perfect Storm : A True Story of Men Against the Sea,3F Section: 28,006101351X,HarperTorch,Sebastian Junger,False
+406,Heroes of Their Own Lives: The Politics and History of Family Violence Boston 1880-1960,2F Section: 17,0140104682,Penguin USA,Linda Gordon,False
+407,The Florence King Reader,3F Section: 0,0312143370,St. Martin's Press,Florence King,False
+408,The Lovely Bones: A Novel,1F Section: 19,0316666343,Little Brown,Alice Sebold,False
+409,Impossible Vacation,1F Section: 28,039456894X,Random House Inc,Spalding Gray,False
+410,Hannibal,1F Section: 15,0440224675,Dell Publishing Company,Thomas Harris,False
+411,London : The Novel,2F Section: 14,0449002632,Fawcett,EDWARD RUTHERFURD,False
+412,Life Before Man,2F Section: 26,0449213773,Fawcett Books,Margaret Atwood,False
+413,Cavedweller,2F Section: 23,0452279690,Plume Books,Dorothy Allison,False
+414,The Robber Bride,3F Section: 23,0553569058,Bantam,Margaret Atwood,False
+415,Wouldn't Take Nothing for My Journey Now,2F Section: 17,0679427430,Random House,MAYA ANGELOU,False
+416,The House of Mirth (Library of America),3F Section: 21,0679725393,Vintage Books USA,Edith Wharton,False
+417,Ohitika Woman,1F Section: 29,0802114369,Pub Group West,Mary Brave Bird,False
+418,Black Elk Speaks: Being the Life Story of a Holy Man of the Oglala Sioux,3F Section: 2,0803233019,University of Nebraska Press,John G. Neihardt,False
+419,The Community in America,3F Section: 1,0819154946,University Press of America,Roland Warren,False
+420,The Best in Tent Camping: Smoky Mountains : A Guide for Campers Who Hate Rvs Concrete Slabs and Loud Portable Stereos (Best in Tent Camping Colorado),2F Section: 5,0897322339,Globe Pequot Pr,Johnny Molloy,False
+421,Mawrdew Czgowchwz (New York Review Books Classics),3F Section: 0,0940322978,New York Review of Books,James McCourt,False
+422,Prozac Nation: Young and Depressed in America : A Memoir,1F Section: 22,1573225126,Riverhead Books,Elizabeth Wurtzel,False
+423,The Journey From Here,1F Section: 18,1579651658,Artisan Publishers,Bill Bradley,False
+424,The Four Agreements: A Practical Guide to Personal Freedom,1F Section: 24,1878424319,Amber-Allen Publishing,Don Miguel Ruiz,False
+425,El desarrollo de Leonardo da Vinci (BiografÃ­as y memorias),1F Section: 1,8401351421,Plaza &amp; JanÃ©s,Luis Racionero,False
+426,Gastronomia divina (L'Ã¡ncora),1F Section: 25,8423324311,Destino,Eugeni Perea SimÃ³n,False
+427,Desaparecido: LA Autentica Historia De LA Ejecucion De Charles Horman,3F Section: 20,8427007450,Lectorum Pubns (J),Thomas Hauser,False
+428,Hotel Europa (El BalancÃ­),2F Section: 10,8429734996,Edicions 62,VicenÃ§ Villatoro,False
+429,La dona dels ulls de pluja: Barcelona anys 90 (El BalancÃ­),3F Section: 12,8429736131,Edicions 62,VÃ­ctor Mora,False
+430,El paraÃ­so (Tiempos modernos),1F Section: 6,8440616252,Editiones B Grupo Zeta,Elena Castedo,False
+431,Negra i consentida (ColÂ¨lecciÃ³ El Mirall),2F Section: 2,8472224260,Laia,OfÃ¨lia Dracs,False
+432,Essa efa (ColÂ¨lecciÃ³ El Mirall i el temps),2F Section: 1,8472227421,Editorial Laia,OfÃ¨lia Dracs,False
+433,Espurnes de sang (La Negra),1F Section: 9,8474103347,Edicions de la Magrana,Antoni Serra,False
+434,Les llengÃ¼es d'Africa (Biblioteca universal EmpÃºries),3F Section: 8,8475960936,Editorial EmpÃºries,M. Carme Junyent,False
+435,TrÃ nsit (Area contemporÃ nia),1F Section: 15,8477830029,Area,Jaume CapÃ³,False
+436,L'home del sac,3F Section: 0,8478091246,Columna,MÃ rius Serra,False
+437,GrÃ cies per la propina (Columna),1F Section: 9,8478097732,Columna,Ferran Torrent,False
+438,El dia que es va cremar el Liceu (La primera Columna),3F Section: 18,8478098267,Columna,Joan Agut,False
+439,CÃ³mo ser una mujer y no morir en el intento (ColecciÃ³n El Papagayo),1F Section: 23,8478800336,Ediciones Temas de Hoy,Carmen Rico-Godoy,False
+440,Una casa en Irlanda,1F Section: 2,8478884963,Salamandra,Maeve Binchy,False
+441,La mirada del tafur (ColÂ¨lecciÃ³ clÃ ssica),3F Section: 6,8483002523,Columna,Ferran Torrent,False
+442,Amorrada al pilÃ³ (Columna),1F Section: 8,8486433193,Columna,Maria JaÃ©n,False
+443,Blur (Melody Maker),2F Section: 0,0600586898,Hal Leonard Corp,Paul Lester,False
+444,War and Peace (Wordsworth Classics),2F Section: 15,1853260622,NTC/Contemporary Publishing Company,Leo Tolstoy,False
+445,A-Z of Behaving Badly,2F Section: 4,1857938011,Trafalgar Square,Simon Nye,False
+446,He Understanding Masculine Psychology,3F Section: 6,0060804157,Harpercollins Publisher,Robert A Johnson,False
+447,Las DOS Muertes De Gardel (Ficcionario),2F Section: 1,8466601090,Ediciones B,Horacio Vazquez-Rial,False
+448,You Can Surf the Net: Your Guide to the World of the Internet,1F Section: 1,0140382658,Puffin Books,Marc Gascoigne,False
+449,I Want to Be...a Veterinarian (I Want to Be... Series),3F Section: 9,0152012966,Harcourt,Stephanie Maze,False
+450,Alice's Tulips,1F Section: 21,0312283784,St. Martin's Griffin,Sandra Dallas,False
+451,Centaur Aisle,2F Section: 0,0345297709,Ballantine Books,Piers Anthony,False
+452,Crewel Lye,2F Section: 9,0345313097,Ballantine Books,Piers Anthony,False
+453,Dragonflight (Dragonriders of Pern Trilogy (Paperback)),1F Section: 3,0345335465,Del Rey Books,Anne McCaffrey,False
+454,Last Sword of Power (Stones of Power),3F Section: 27,0345416848,Del Rey Books,David Gemmell,False
+455,Dating Big Bird,3F Section: 19,0385333404,Dial Books,Laura Zigman,False
+456,The Firm,3F Section: 15,044021145X,Bantam Dell Publishing Group,John Grisham,False
+457,Murder at the Kennedy Center (Capital Crime Mysteries),1F Section: 27,0449212084,Fawcett Books,Margaret Truman,False
+458,Guinness World Records 2000 (Guinness Book of Records 2000),2F Section: 29,0553582682,Bantam Books,Nic Kynaston,False
+459,Forever Amber Brown (Amber Brown (Paperback)),2F Section: 21,0590947257,Jump at the Sun,Paula Danziger,False
+460,Philip Jose Farmer's The Dungeon,3F Section: 7,074345829X,I Books,Richard A. Lupoff,False
+461,Pool of Radiance: The Ruins of Myth Drannor (Forgotten Realms),1F Section: 13,0786913878,Wizards of the Coast,Carrie Bebris,False
+462,Feminism and Suffrage: The Emergence of an Independent Women's Movement in America 1848-1869,1F Section: 19,0801491827,Cornell University Press,Ellen Carol Dubois,False
+463,Why Are Boys So Weird (Tales from Third Grade),1F Section: 2,0816729913,Troll Communications Llc,Candice F. Ransom,False
+464,Sheldon &amp; Mrs. Levine: An Excruciating Correspondence,1F Section: 28,0843136685,Price Stern Sloan,Sam Bobrick,False
+465,Black Beauty (Great Illustrated Classics (Playmore)),1F Section: 4,0866119531,Playmore Inc. Publishers,Anna Sewell,False
+466,Oliver Twist (Great Illustrated Classics),1F Section: 26,0866119566,Playmore Inc. Publishers,Charles Dickens,False
+467,The wild ponies of Assateague Island (Books for young explorers),3F Section: 21,0870441663,National Geographic Society,Donna K Grosvenor,False
+468,Frankenstein (Illustrated Classics Series),3F Section: 6,1561561428,Kidsbooks.Com,Mary Wollstonecraft Shelley,False
+469,The Scarlet Letter,1F Section: 23,0553210092,Bantam,NATHANIEL HAWTHORNE,False
+470,Dragonsong (Harper Hall Trilogy),2F Section: 13,0553258524,Bantam,Anne McCaffrey,False
+471,The Watch House,1F Section: 26,0688163726,HarperTrophy,Robert Westall,False
+472,Was It Something I Said?,2F Section: 10,1569471096,Soho Press,Valerie Block,False
+473,Cloud Nine,2F Section: 4,055358099X,Bantam Books,Luanne Rice,False
+474,The Lovely Bones,3F Section: 19,0316168815,Back Bay Books,Alice Sebold,False
+475,The Tortilla Curtain,2F Section: 14,014023828X,Penguin Books,T. Coraghessan Boyle,False
+476,Sarah Conley,1F Section: 5,0316314927,Back Bay Books,Ellen Gilchrist,False
+477,A Widow for One Year,2F Section: 20,0345424719,Ballantine Books,JOHN IRVING,False
+478,The Clearing,2F Section: 22,0375414746,Knopf,TIM GAUTREAUX,False
+479,Empire Falls,3F Section: 23,0375726403,Vintage Books USA,Richard Russo,False
+480,Oryx and Crake,1F Section: 7,0385503857,Nan A. Talese,Margaret Atwood,False
+481,Sophie's World: A Novel About the History of Philosophy (Berkeley Signature Edition),1F Section: 17,0425156842,Berkley Publishing Group,Jostein Gaarder,False
+482,Black and Blue,1F Section: 27,0440226104,Dell,ANNA QUINDLEN,False
+483,Le Divorce (William Abrahams Book),2F Section: 16,0452277337,Plume Books,Diane Johnson,True
+484,The Face,3F Section: 17,0553802488,Bantam,DEAN KOONTZ,False
+485,She's Come Undone (Oprah's Book Club),2F Section: 13,0671021001,Pocket,Wally Lamb,False
+486,Falling Leaves: The True Story of an Unwanted Chinese Daughter,3F Section: 22,0767903579,Broadway Books,Adeline Yen Mah,False
+487,Nickel and Dimed: On (Not) Getting By in America,1F Section: 1,0805063897,Owl Books,Barbara Ehrenreich,False
+488,The Game of Kings (Lymond Chronicles 1),1F Section: 17,0679777431,Vintage,DOROTHY DUNNETT,False
+489,RUSSIA HOUSE THE,2F Section: 0,0553285343,Bantam,JOHN LE CARRE,False
+490,Solv-A-Crime Puzzles (Dover Game and Puzzle Activity Books),1F Section: 29,0486285529,Dover Publications,A. C. Gordon,False
+491,The First Wives Club Movie Tie In,3F Section: 5,0671002481,Pocket,Olivia Goldsmith,False
+492,Selected Poems of Emily Dickinson,2F Section: 13,0812523385,Tor Books,Emily Dickinson,False
+493,Watercolor School (Reader's Digest Learn-As-You-Go Guides),1F Section: 19,0895774666,Readers Digest,Hazel Harrison,False
+494,Joshua In the Holy Land,3F Section: 29,0020199090,Simon Schuster Trade,Joseph Girzone,False
+495,The Messenger,3F Section: 14,0385495145,Image,JOSEPH GIRZONE,False
+496,Sisters of the Earth: Women's Prose and Poetry About Nature,3F Section: 6,0679733825,Vintage Books USA,Lorraine Anderson,False
+497,Left Behind: A Novel of the Earth's Last Days (Left Behind No. 1),3F Section: 27,0842329129,Tyndale House Publishers,Tim Lahaye,False
+498,Househusband,1F Section: 21,0345451260,Ballantine Books,AD HUDLER,False
+499,Life Messages: Inspiration For The Woman's Spirit,1F Section: 17,0740700235,Andrews McMeel Publishing,Josephine Carlton,False
+500,Letters from a Nut,3F Section: 2,0380973545,William Morrow,Ted L. Nancy,False
+501,Karl Marx: A Life,1F Section: 24,0393321576,W.W. Norton &amp; Company,Francis Wheen,False
+502,The Shining,3F Section: 4,0743424425,Pocket,Stephen King,False
+503,The Diary of Ellen Rimbauer: My Life at Rose Red,1F Section: 11,0786868015,Hyperion,Joyce Reardon,False
+504,The Sky Is Falling,1F Section: 9,0446610178,Warner Books,Sidney Sheldon,False
+505,Santa Pete : A Novel Of Christmas Present And Past,1F Section: 15,0684854953,Simon &amp; Schuster,Christopher Moore,False
+506,Mount Vernon Love Story : A Novel of George and Martha Washington,1F Section: 2,0743229878,Simon &amp; Schuster,Mary Higgins Clark,False
+507,The Kingdom: Arabia and the House of Sa'Ud,1F Section: 19,0380617625,Harper Mass Market Paperbacks (Mm),Robert Lacey,False
+508,Florida Road Kill: A Novel,2F Section: 8,0380732335,HarperTorch,Tim Dorsey,False
+509,The 37th Hour,2F Section: 28,0385337132,Delacorte Press,JODI COMPTON,False
+510,Be Cool,1F Section: 12,0440235057,Dell Publishing Company,Elmore Leonard,False
+511,The Hunted,2F Section: 9,0445402040,Warner Books (Mm),Elmore Leonard,False
+512,The Saints of Big Harbour: A Novel,2F Section: 24,0618119760,Houghton Mifflin Company,Lynn Coady,False
+513,Old Flames,1F Section: 22,0871138646,Atlantic Monthly Press,John Lawton,False
+514,From the Earth: Chinese Vegetarian Cooking,2F Section: 8,0026329859,MacMillan Publishing Company.,Eileen Yin-Fei Lo,False
+515,Living in the Presence: Disciplines for the Spiritual Heart,1F Section: 3,0060621257,Harpercollins,Tilden H. Edwards,False
+516,The Bean Trees,2F Section: 26,0060915544,Perennial,Barbara Kingsolver,False
+517,Homeland and Other Stories,3F Section: 23,0060917016,Perennial,Barbara Kingsolver,False
+518,A Suitable Boy : Novel A,3F Section: 7,0060925000,Perennial,Vikram Seth,False
+519,Daughter of Fortune,2F Section: 2,0060932759,Perennial,Isabel Allende,False
+520,The Fly on the Wall,1F Section: 4,0061000280,HarperTorch,Tony Hillerman,False
+521,Cranford (The World's Classics),1F Section: 14,0192815318,Oxford University Press,Elizabeth Gaskell,False
+522,The Red Tent (Bestselling Backlist),1F Section: 26,0312195516,Picador USA,Anita Diamant,False
+523,The Right Hand of Amon,1F Section: 19,0380792664,Avon,Lauren Haney,False
+524,Last Blue: Poems,1F Section: 4,0393048977,W.W. Norton &amp; Company,Gerald Stern,False
+525,The Cat Who Wasn't There,3F Section: 9,0399137807,Putnam Pub Group,Lilian Jackson Braun,False
+526,Isle of Dogs,1F Section: 12,039914739X,Putnam Publishing Group,Patricia Daniels Cornwell,False
+527,Light a Penny Candle,3F Section: 23,0451203046,Signet Book,Maeve Binchy,False
+528,The Blue Last: A Richard Jury Mystery (Richard Jury Mysteries (Paperback)),2F Section: 26,0451410556,Onyx Books,Martha Grimes,False
+529,Turn of the Screw and Short N,3F Section: 27,0451523318,Signet Book,Henry James,False
+530,The Country of the Pointed Firs (Dover Thrift Editions),1F Section: 21,0486281965,Dover Publications,Sarah Orne Jewett,False
+531,Early Poems (Dover Thrift Editions),1F Section: 14,0486292940,Dover Publications,William Carlos Williams,False
+532,Barchester Towers (Oxford Pocket Classics),3F Section: 15,051762639X,Random House Value Publishing,Anthony Trollope,False
+533,REEF,3F Section: 12,0684824442,Scribner,Edith Wharton,False
+534,Wednesday the Rabbi Got Wet,3F Section: 11,0743458303,I Books,Harry Kemelman,False
+535,Things My Girlfriend and I Have Argued About: A Novel,2F Section: 12,081296666X,Villard Books,Mil Millington,False
+536,Listening Hearts: Discerning Call in Community,1F Section: 1,0819215635,Morehouse Group,Suzanne G. Farnham,False
+537,Unattainable Earth,2F Section: 18,0880011025,Ecco Press,Czeslaw Milosz,False
+538,The Practice of Prayer (New Church's Teaching Series Vol 4),3F Section: 6,1561011525,Cowley Publications,Margaret Guenther,False
+539,Vertical Poetry: Recent Poems,1F Section: 2,1877727083,White Pine Press (NY),Roberto Juarroz,False
+540,Rubinstein's Chess Masterpieces,3F Section: 12,0486206173,Dover Publications,Akiba Rubinstein,False
+541,The Nanny Diaries: A Novel,2F Section: 8,0312278586,St. Martin's Press,Emma McLaughlin,False
+542,Biblioteca Universale Rizzoli: Sulla Sponda Del Fiume Piedra,1F Section: 23,8845229041,Fabbri - RCS Libri,P Coelho,False
+543,I Giorni Dell'abbandono,1F Section: 9,887641486X,Edizioni E/O,Elena Ferrante,False
+544,The Gizmo,1F Section: 6,0140370900,Puffin,Paul Jennings,False
+545,The Last Best Hope of Earth: Abraham Lincoln and the Promise of America,3F Section: 17,0674511255,Harvard University Press,Mark E. Jr. Neely,False
+546,Organic Chemistry (Saunders Golden Sunburst Series),3F Section: 3,0030096189,Saunders College Publishing,Stephen J. Weininger,False
+547,Secrets of St. John's Wort: A Lynn Sonberg Book,2F Section: 12,0312965745,St. Martin's Press,Larry Katzenstein,False
+548,Diet for a Poisoned Planet: How to Choose Safe Foods for You and Your Family,3F Section: 12,0345374657,Ballantine Books,David Steinman,False
+549,Punished by Rewards: The Trouble With Gold Stars Incentive Plans A'S Praise and Other Bribes,2F Section: 11,0395710901,Houghton Mifflin,Alfie Kohn,False
+550,Montessori Today: A Comprehensive Approach to Education from Birth to Adulthood,3F Section: 9,080521061X,Schocken Books,Paula Polk Lillard,False
+551,Oil Painting Techniques (Artist's Painting Library),1F Section: 15,0823032612,Watson-Guptill Publications,David Lewis,False
+552,Going down swinging,2F Section: 7,0679310002,Random House Canada,Billie Livingston,False
+553,Confessions of a Sociopathic Social Climber : The Katya Livingston Chronicles (Katya Livingston Chronicles (Hardcover)),1F Section: 11,0312288115,Thomas Dunne Books,Adele Lang,False
+554,Like a Hole in the Head,2F Section: 20,0316171107,Little Brown &amp; Co,Jen Banbury,False
+555,Postmortem,3F Section: 28,0380710218,Harper Mass Market Paperbacks (Mm),Patricia Daniels Cornwell,False
+556,The Cove,3F Section: 7,0515118656,Jove Books,Catherine Coulter,False
+557,An Inconvenient Woman,3F Section: 26,0553289063,Bantam Books,Dominick Dunne,False
+558,Shock Wave (Dirk Pitt Adventures (Paperback)),3F Section: 13,0671000306,Pocket,Clive Cussler,False
+559,While My Pretty One Sleeps,1F Section: 22,0671673688,Pocket,Mary Higgins Clark,False
+560,Antipodes 10,1F Section: 29,1561672033,Noble House,John Pascal,False
+561,Kick Ass: Selected Columns of Carl Hiaasen,3F Section: 9,0425178242,Berkley Publishing Group,Carl Hiaasen,False
+562,Everything Is Illuminated: A Novel,2F Section: 2,0618173870,Houghton Mifflin Company,Jonathan Safran Foer,False
+563,Life of Pi,1F Section: 25,0156027321,Harvest Books,Yann Martel,False
+564,Rules of the Wild,2F Section: 19,0375403582,Random House Inc,Francesca Marciano,False
+565,Three Junes,3F Section: 17,0385721420,Anchor,JULIA GLASS,False
+566,Back Roads,2F Section: 17,0451202341,Signet Book,Tawni O'Dell,False
+567,In Her Shoes : A Novel,1F Section: 26,0743418190,Atria Books,Jennifer Weiner,False
+568,The Kiss,1F Section: 18,0385335407,Delacorte Press,Danielle Steel,False
+569,Home Spun: A Collection,1F Section: 7,0965746828,Winedale Publishing,Leon Hale,False
+570,Sweet Hereafter Movie Tie-In : A Novel,3F Section: 18,0060923245,Perennial,Russell Banks,False
+571,The Rime of the Ancient Mariner and Other Poems,2F Section: 2,0486272664,Dover Publications,Samuel Taylor Coleridge,False
+572,11th Hour,3F Section: 22,0786015276,Pinnacle Books,Bradley Warshauer,False
+573,In Country RI,3F Section: 11,0060913509,Perennial,Bobbie Ann Mason,False
+574,Brazen Virtue,2F Section: 26,0553272837,Bantam Books,Nora Roberts,False
+575,Ghost Moon,2F Section: 12,0440225078,Dell Publishing Company,Karen Robards,False
+576,Brewing Up a Storm: A John Thatcher Mystery,1F Section: 17,0312145543,St Martins Pr,Emma Lathen,False
+577,Strangers,1F Section: 5,0425181111,Berkley Publishing Group,Dean R. Koontz,False
+578,Milk and Honey (Peter Decker/Rina Lazarus Novels),2F Section: 21,0380732688,Avon,Faye Kellerman,False
+579,The Deep End of the Ocean (Oprah's Book Club),3F Section: 17,0140286276,Penguin Books,Jacquelyn Mitchard,False
+580,Night Tales,1F Section: 4,0373484100,Silhouette,Nora Roberts,False
+581,A Thousand Acres (Ballantine Reader's Circle),3F Section: 28,0449907481,Ballantine Books,JANE SMILEY,False
+582,Chopping Spree,2F Section: 16,0553107305,Bantam,DIANE MOTT DAVIDSON,True
+583,Four Blondes,1F Section: 22,080213825X,Grove Press,Candace Bushnell,False
+584,River's End,3F Section: 28,0515127833,Jove Books,Nora Roberts,False
+585,Summer Island,2F Section: 2,0345441133,Ballantine Books,KRISTIN HANNAH,False
+586,The Straw Men,1F Section: 7,0515134279,Jove Books,Michael Marshall,False
+587,The Doctor the Patient: The Personal Journey of a Physician With Cancer,3F Section: 11,0945586051,Editech Pr,Allen Widome,False
+588,The Street Lawyer,1F Section: 29,0385490992,Doubleday Books,John Grisham,False
+589,The Chamber,1F Section: 23,0385424728,Doubleday Books,John Grisham,False
+590,Warlock : A Novel of Ancient Egypt,1F Section: 19,0312980388,St. Martin's Paperbacks,Wilbur Smith,False
+591,The Teacher from the Black Lagoon,2F Section: 21,0590419625,Scholastic,Mike Thaler,False
+592,The Partner,2F Section: 27,0385472951,Doubleday Books,John Grisham,False
+593,Primal Scream,3F Section: 2,0451195663,Signet Book,Michael Slade,False
+594,Chosen Prey,2F Section: 29,0425182878,Berkley Publishing Group,John Sandford,False
+595,Guilty as Sin,2F Section: 0,0553564528,Bantam,TAMI HOAG,False
+596,Night Sins,2F Section: 12,055356451X,Bantam,TAMI HOAG,False
+597,The Second Time Around : A Novel,2F Section: 3,0743412621,Pocket,Mary Higgins Clark,False
+598,Three,1F Section: 16,0849943728,WestBow Press,Ted Dekker,False
+599,The Canopy,1F Section: 0,0849943450,WestBow Press,Angela Elwell Hunt,False
+600,Blink,3F Section: 17,084994371X,WestBow Press,Ted Dekker,False
+601,Last Battle,1F Section: 4,0590406019,Scholastic Paperbacks (Mm),C. S. Lewis,False
+602,Prince Caspian,2F Section: 19,0020442408,MacMillan Publishing Company.,C. S. Lewis,False
+603,Robert's Rules of Order,3F Section: 18,0553225987,Bantam Books,William Eisner,False
+604,Abduction,3F Section: 5,042517736X,Berkley Publishing Group,Robin Cook,False
+605,And Never Let Her Go : Thomas Capano: The Deadly Seducer,2F Section: 29,0671868713,Pocket,Ann Rule,False
+606,Not a Day Goes By : A Novel,1F Section: 26,038549825X,Anchor,E. LYNN HARRIS,False
+607,Sun Signs,2F Section: 6,0553202294,Bantam Doubleday Dell,Linda Goodman,False
+608,The Vampire Lestat (Vampire Chronicles Book II),3F Section: 19,0345313860,Ballantine Books,ANNE RICE,False
+609,The Mummy or Ramses the Damned,3F Section: 1,0345369947,Ballantine Books,Anne Rice,False
+610,HIS LITTLE WOMEN : HIS LITTLE WOMEN,3F Section: 19,067170124X,Pocket,Judith Rossner,False
+611,Her Mother's Daughter,3F Section: 28,0345353625,Ballantine Books,Marilyn French,False
+612,Your Erroneous Zones,1F Section: 11,0308102282,Harpercollins,Wayne W. Dyer,False
+613,The Night Listener,1F Section: 22,006017143X,HarperCollins Publishers,Armistead Maupin,False
+614,Organizing from the Inside Out,2F Section: 24,0805056491,Henry Holt &amp; Company,Julie Morgenstern,False
+615,The Hellfire Club,3F Section: 13,0679401377,Random House Inc,Peter Straub,False
+616,The Diary of Jack the Ripper/the Discovery the Investigation the Debate,1F Section: 4,1562827049,Hyperion Books,Jack,False
+617,Vanished,2F Section: 5,0385306032,Delacorte Press,Danielle Steel,True
+618,The Women in His Life (G K Hall Large Print Book Series),2F Section: 0,0816152446,Thorndike Pr,Barbara Taylor Bradford,True
+619,The Morning After,1F Section: 28,0821772953,Zebra Books,Lisa Jackson,False
+620,Missing Susan,2F Section: 13,0345379454,Ballantine Books,SHARYN MCCRUMB,False
+621,Hiding in the Shadows (Shadows Trilogy (Paperback)),2F Section: 6,0553576925,Bantam Books,Kay Hooper,False
+622,Kitchen Privileges : A Memoir,1F Section: 28,0743206053,Simon &amp; Schuster,Mary Higgins Clark,False
+623,We Are Our Mothers' Daughters,2F Section: 3,0688169678,Perennial,Cokie Roberts,False
+624,Horus's Horrible Day (First Graders from Mars),1F Section: 11,0439319552,Scholastic,Shana Corey,False
+625,My Garden (Beginning Literacy),1F Section: 12,0590870157,Scholastic,Jesse S. Ostrow,False
+626,101 Dalmatians,3F Section: 21,0307001164,Golden Books Publishing Company,Justine Korman,False
+627,In the Dinosaur's Paw (Kids of the Polk Street School),3F Section: 28,0440441501,Yearling,PATRICIA REILLY GIFF,False
+628,Ralph S. Mouse,3F Section: 6,0590687301,Scholastic,Beverly Cleary,False
+629,The First Journey (Animorphs. Alternamorphs 1),1F Section: 13,0439061644,Apple Signature (Scholastic),K. A. Applegate,False
+630,How Do Dinosaurs Learn to Read,2F Section: 16,0439569842,Scholastic Inc.,Jane Yolen,True
+631,My First Book about Space (Golden Look-Look Books (Paperback)),2F Section: 29,0307118703,Golden Books,Dinah L. Moche,False
+632,You Be the Jury #02,1F Section: 25,0590418858,Scholastic,Marvin Miller,False
+633,Comic Characters,3F Section: 18,030720152X,Golden Books,Craig Boldman,False
+634,The Time Machine (Troll Illustrated Classics),3F Section: 22,0816728739,Troll Communications Llc,H. G. Wells,False
+635,I Like School (in My World Series),2F Section: 1,0865050880,Crabtree Publishing Company,Bobbie Kalman,False
+636,Sacred Ground,3F Section: 4,0812519655,Tor Books,Mercedes Lackey,False
+637,Burning Water (Burning Water),2F Section: 16,0812524853,Tor Books,Mercedes Lackey,False
+638,The Tightrope Walker,2F Section: 24,0449211770,Fawcett Books,Dorothy Gilman,False
+639,MoveOn's 50 Ways to Love Your Country: How to Find Your Political Voice and Become a Catalyst for Change,2F Section: 7,193072229X,Inner Ocean Publishing,Moveon,False
+640,Children of the Night,2F Section: 19,0812521129,Tor Books,Mercedes Lackey,False
+641,Rainbow the Stormy Life of Judy Garland,1F Section: 23,0345251733,Ballantine Books,Christopher Finch,False
+642,Cold Mountain (MTI) (Vintage Contemporaries),1F Section: 1,1400077826,Vintage,CHARLES FRAZIER,False
+643,A Fountain Filled With Blood (A Rev. Clare Ferguson Mystery),3F Section: 25,0312995431,St. Martin's Paperbacks,Julia Spencer-Fleming,False
+644,Out of the Deep I Cry : A Clare Fergusson/Russ Van Alstyne Mystery,1F Section: 4,0312312628,St. Martin's Minotaur,Julia Spencer-Fleming,False
+645,Daisy Fay and the Miracle Man,2F Section: 19,0446394521,Warner Books,Fannie Flagg,False
+646,Little House On the Prairie,1F Section: 12,0590021117,Scholastic Inc,Laura Ingall Wilder,False
+647,Angela's Ashes: A Memoir,2F Section: 10,068484267X,Scribner,Frank McCourt,False
+648,The Next Accident,1F Section: 18,0553578693,Bantam,LISA GARDNER,False
+649,Socks (Cleary Reissue),2F Section: 27,0380709260,HarperTrophy,Beverly Cleary,False
+650,The Pet Shop Mystery (Boxcar Children Special (Paper) No 7),2F Section: 7,0807565288,Albert Whitman &amp; Company,Gertrude Chandler Warner,False
+651,In the Bleak Midwinter (A Rev. Clare Ferguson Mystery),3F Section: 9,0312986769,St. Martin's Minotaur,Julia Spencer-Fleming,False
+652,The Amber Spyglass (His Dark Materials Book 3),1F Section: 18,0345413377,Del Rey,PHILIP PULLMAN,False
+653,The Subtle Knife (His Dark Materials Book 2),1F Section: 6,0345413369,Del Rey,PHILIP PULLMAN,False
+654,The Golden Compass (His Dark Materials Book 1),1F Section: 27,0679893105,Knopf Books for Young Readers,PHILIP PULLMAN,False
+655,Eyeshot,2F Section: 12,0061096091,Harper Mass Market Paperbacks (Mm),Lynn S. Hightower,False
+656,If Ever I Return Pretty Peggy-O,2F Section: 1,0345369068,Fawcett Books,Sharyn McCrumb,False
+657,The Rosewood Casket,1F Section: 8,0451184718,Signet Book,Sharyn McCrumb,False
+658,The Amazing Mrs. Pollifax,1F Section: 19,0449209121,Fawcett Books,Dorothy Gilman,False
+659,Fast Food Nation: The Dark Side of the All-American Meal,1F Section: 23,0060938455,Perennial,Eric Schlosser,False
+660,The Unsung Hero,1F Section: 8,080411952X,Ivy Books,Suzanne Brockmann,True
+661,Two Princesses of Bamarre The,2F Section: 25,0060575808,Eos,Gail Carson Levine,False
+662,Ella Enchanted (rack),3F Section: 15,0060558865,Avon,Gail Carson Levine,False
+663,Passing for Thin : Losing Half My Weight and Finding My Self,3F Section: 15,0767912918,Broadway,FRANCES KUFFEL,False
+664,Bloodlines (Dog Lover's Mysteries),2F Section: 5,0553298860,Bantam Books,Susan Conant,False
+665,Kissing in Manhattan,1F Section: 22,0385335679,Delta,DAVID SCHICKLER,False
+666,Echoes,1F Section: 6,0440122090,Dell,Maeve Binchy,False
+667,Someone to Watch Over Me : A Novel,2F Section: 26,0671525832,Pocket,Judith McNaught,False
+668,The Toynbee Convector,2F Section: 25,0553279572,Spectra Books,Ray Bradbury,False
+669,One for the Money (Stephanie Plum Novels (Paperback)),2F Section: 3,0061009059,HarperTorch,Janet Evanovich,False
+670,The Bell Jar : A Novel (Perennial Classics),3F Section: 27,0060930187,Perennial,Sylvia Plath,False
+671,A polar bear called Pingo,2F Section: 22,0516076272,Childrens Press,Ilona Koidahl,False
+672,Dark Lady,3F Section: 4,0679450432,Alfred A. Knopf,Richard North Patterson,False
+673,The Future Scrolls,1F Section: 9,0821775863,Zebra Books,Fern Michaels,False
+674,About Face,3F Section: 6,0821770209,Zebra Books,Fern Michaels,True
+675,Tarot Says Beware (A Herculeah Jones Mystery),1F Section: 6,0670855758,Viking Books,Betsy Byars,False
+676,Globalhead,2F Section: 25,0553562819,Spectra Books,Bruce Sterling,False
+677,Along Came a Spider (Alex Cross Novels),3F Section: 1,0446364193,Warner Books,James Patterson,False
+678,Simple Abundance:  A Daybook of Comfort and Joy,2F Section: 19,0446519138,Warner Books,Sarah Ban Breathnach,False
+679,The River King,3F Section: 15,0425179672,Berkley Publishing Group,Alice Hoffman,False
+680,Final Appeal,2F Section: 22,0061042943,HarperTorch,Lisa Scottoline,False
+681,Who Moved My Cheese? An Amazing Way to Deal with Change in Your Work and in Your Life,2F Section: 5,0399144463,Putnam Pub Group (Paper),Spencer Johnson,False
+682,Atonement,1F Section: 27,0965404560,Nan A. Talese,Ian McEwan,True
+683,Why Do Clocks Run Clockwise? and Other Imponderables: Mysteries of Everyday Life Explained,2F Section: 29,006015781X,Harpercollins,David Feldman,False
+684,Someone to Watch Over Me : Stories,1F Section: 18,0060930705,Perennial,Richard Bausch,False
+685,Stately Pursuits,1F Section: 1,0312206763,Griffin Trade Paperback,Katie Fforde,False
+686,The Pinball Effect: How Renaissance Water Gardens Made the Carburetor Possible-And Other Journeys Through Knowledge (Pinball Effect),1F Section: 8,0316116025,Little Brown &amp; Co,James Burke,False
+687,My Father Dancing (Harvest Book),2F Section: 20,0156013967,Harvest Books,Bliss Broyard,False
+688,Women on the Case,3F Section: 28,0385314019,Bantam Dell Pub Group,Sara Paretsky,False
+689,New Cardiff,1F Section: 8,0743444167,Washington Square Press,Charles Webb,False
+690,Almost: A Novel,1F Section: 27,0618231617,Mariner Books,Elizabeth Benedict,False
+691,A Tally of Types: With Additions by Several Hands ; And With a New Introduction by Mike Parker,1F Section: 1,1567920047,David R. Godine Publisher,Stanley Morison,False
+692,Stand Still Like the Hummingbird,1F Section: 9,0811203220,New Directions Publishing Corporation,Henry Miller,False
+693,Crossing the Unknown Sea: Work As a Pilgrimage of Identity,3F Section: 13,1573229148,Riverhead Books,David Whyte,False
+694,The Future of Leadership: Today's Top Leadership Thinkers Speak to Tomorrow's Leaders,3F Section: 5,0787955671,Jossey-Bass,Warren  Bennis,False
+695,Expecting Adam: A True Story of Birth Rebirth and Everyday Magic,3F Section: 23,0425174484,Berkley Publishing Group,Martha Beck,False
+696,No Future Without Forgiveness,3F Section: 19,0385496907,Image,Desmond Mpilo Tutu,False
+697,A Call to Conscience : The Landmark Speeches of Dr. Martin Luther King Jr.,3F Section: 19,0446523992,Warner Books,Kris Shepard,False
+698,On the Road (Penguin 20th Century Classics),1F Section: 3,0140185216,Penguin USA (Paper),Jack Kerouac,False
+699,I And Thou,2F Section: 9,0684717255,Free Press,Martin Buber,False
+700,The Prince (Dover Thrift Editions),2F Section: 23,0486272745,Dover Publications,NiccolÃ² Machiavelli,False
+701,Sarajevo maybe (Anni Novanta/Feltrinelli),2F Section: 25,8807120194,Feltrinelli,Gianfranco Bettin,False
+702,Becoming a Man : Half a Life Story,2F Section: 19,0062507249,HarperSanFrancisco,Paul Monette,False
+703,OLD MAN AND THE SEA,2F Section: 16,0684801221,Scribner,Ernest Hemingway,False
+704,Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl),3F Section: 26,1576737357,Multnomah,Melody Carlson,False
+705,The Dominant Blonde,1F Section: 14,0060083298,Avon Trade,Alisa Kwitney,False
+706,Where the Heart Is (Oprah's Book Club (Paperback)),3F Section: 11,0446672211,Warner Books,Billie Letts,False
+707,The Girls' Guide to Hunting and Fishing,1F Section: 7,0140293248,Penguin Books,Melissa Bank,False
+708,Rena's Promise: A Story of Sisters in Auschwitz,1F Section: 7,0807070718,Beacon Press,Rena Kornreich Gelissen,False
+709,America the Beautiful: A Novel,2F Section: 17,0743213831,Touchstone,Moon Unit Zappa,False
+710,Easy Travel to Other Planets,3F Section: 8,0345305477,Ballantine Books,Ted Mooney,False
+711,The Mist and the Magic (Harper Monogram),3F Section: 24,0061080519,Harper Mass Market Paperbacks,Susan Wiggs,False
+712,Icy Sparks,3F Section: 12,0142000205,Penguin Books,Gwyn Hyman Rubio,False
+713,The True and Outstanding Adventures of the Hunt Sisters: A Novel,1F Section: 6,0316735027,Little Brown,Elisabeth Robinson,False
+714,The Time Traveler's Wife,3F Section: 4,193156146X,MacAdam/Cage Publishing,Audrey Niffenegger,False
+715,Strange Fits of Passion: A Novel,1F Section: 18,015600710X,Harvest Books,Anita Shreve,False
+716,The Monk Downstairs: A Novel,3F Section: 19,0062517856,HarperSanFrancisco,Tim Farrington,False
+717,Lost in Place: Growing Up Absurd in Suburbia,1F Section: 21,0679767789,Vintage Books USA,Mark Salzman,False
+718,My Name Is Asher Lev,3F Section: 2,0449911683,Ballantine Books,Chaim Potok,False
+719,Waking the Dead,1F Section: 11,0425169626,Berkley Publishing Group,Scott Spencer,False
+720,Davita's Harp,1F Section: 4,0449207757,Fawcett Books,Chaim Potok,False
+721,The Book of Lights,3F Section: 21,0449245691,Fawcett Books,Chaim Potok,False
+722,The Mimic Men,2F Section: 20,0140029400,Penguin USA,V. S. Naipaul,False
+723,The Mystic Masseur,3F Section: 20,0140021566,Penguin USA,V.S. Naipaul,False
+724,Regain,2F Section: 18,2253004022,LGF,Jean Giono,False
+725,Le Grand Meaulnes (Classiques De Poche),2F Section: 6,2253005274,Distribooks Inc,Alain-Fournier,False
+726,A l'Ouest rien de nouveau,1F Section: 21,225300670X,LGF,Erich Maria Remarque,False
+727,Pourquoi j'ai mangÃ?Â© mon pÃ?Â¨re,2F Section: 26,2266084372,Pocket,Lewis,False
+728,Ravage,1F Section: 5,2070362388,Gallimard French,Rene Barjavel,False
+729,Voyage d'une parisienne Ã?Â  Lhassa,3F Section: 12,2266029460,Pocket,Alexandra David-NÃ?Â©el,False
+730,Les Fleurs Du Mal,1F Section: 28,2253007102,Livre De Poche French,C. Baudelaire,False
+731,Chroniques martiennes,3F Section: 3,2070417743,Gallimard,Ray Bradbury,False
+732,Le Diable Au Corps,3F Section: 28,2266033689,Presses Pocket French,Raymond Radiguet,False
+733,La Faute de l'abbÃ?Â© Mouret,1F Section: 2,2070384349,Gallimard,Emile Zola,False
+734,L'Homme Qui Plantait Des Arbres,1F Section: 17,207053880X,Distribooks Inc,Jean Giono,False
+735,La Guerre Des Boutons,2F Section: 10,2070334368,Livre de Poche,Pergaud,False
+736,Paroles de Poilus : Lettres et carnets du front 1914-1918,3F Section: 13,2290314951,J'ai lu,Collectif,False
+737,Une porte sur l'Ã?Â©tÃ?Â©,3F Section: 24,229000510X,J'ai lu,Robert A. Heinlein,False
+738,Die Entdeckung der Langsamkeit.,3F Section: 1,3492207006,Piper,Sten Nadolny,False
+739,Die Grenzen des Geschlechts: Anleitungen zum Sturz des internationalen Patriarchats : Amnesty for Women (Rororo Sachbuch),3F Section: 18,3499177757,Rowohlt,Cheryl Benard,False
+740,Frauen der Welt: Vom Fortschritt der Ungleichheit,3F Section: 18,3889774016,Lamuv,Christa Wichterich,False
+741,I Ging. Das Buch der Wandlung. Das groÃ?Â?e Weisheits- und Orakelbuch der alten Chinesen.,3F Section: 1,3502670005,O. W. Barth Bei Scherz,John. Blofeld,False
+742,African Women: Their Struggle for Economic Independence,2F Section: 12,0905762487,Palgrave-Macmillan,Christine Obbo,False
+743,Die globalisierte Frau: Berichte aus der Zukunft der Ungleichheit (Frauen aktuell),3F Section: 5,3499222604,Rowohlt,Christa Wichterich,False
+744,Women are the Niggers of the World: Ã¼ber Frauen Herrenmenschen und Nietzsches Peitsche (AtV Dokument und Essay),3F Section: 9,3746670055,Aufbau Taschenbuch Verlag,Peter B Heim,False
+745,Sense and Sensibility (Penguin Popular Classics),2F Section: 6,0140620427,Penguin Books Ltd,Jane Austen,False
+746,Der gemietete Mann.,3F Section: 8,3596144434,Fischer (Tb.) Frankfurt,Hera Lind,False
+747,Der Gott der kleinen Dinge.,1F Section: 12,3442724686,btb,Arundhati Roy,False
+748,The Da Vinci Code,3F Section: 9,0385504209,Doubleday,Dan Brown,False
+749,The Rescue,3F Section: 13,0446525502,Warner Books,Nicholas Sparks,False
+750,A Map of the World,3F Section: 28,0385500769,Doubleday Books,Jane Hamilton,False
+751,Edge of Danger,1F Section: 26,0399147012,Putnam Publishing Group,Jack Higgins,False
+752,Bridget Jones : The Edge of Reason,1F Section: 9,0670892963,Viking Books,Helen Fielding,False
+753,Vinegar Hill (Oprah's Book Club (Hardcover)),2F Section: 1,0688180639,HarperCollins,A. Manette Ansay,False
+754,The Pilot's Wife : A Novel Tag: Author of the Weight of Water (Oprah's Book Club (Hardcover)),1F Section: 11,0316789089,Little Brown,Anita Shreve,False
+755,Saving Private Ryan: A Novel,2F Section: 14,0451197275,Signet Book,Max Allan Collins,False
+756,Big Trouble,3F Section: 2,0425184129,Berkley Publishing Group,Dave Barry,False
+757,Snow Falling on Cedars,1F Section: 16,0151001006,Harcourt,David Guterson,False
+758,Skipping Christmas,1F Section: 10,0385505833,Doubleday,JOHN GRISHAM,False
+759,The Reader,2F Section: 29,0679442790,Random House,Bernhard Schlink,False
+760,Cheaters,3F Section: 28,0525943862,Dutton Books,Eric Jerome Dickey,False
+761,Angel Falls,3F Section: 8,0609605925,Crown,KRISTIN HANNAH,False
+762,The Saving Graces : A Novel,2F Section: 29,0060191929,HarperCollins,Patricia Gaffney,False
+763,Daddy's Little Girl,2F Section: 11,0743206045,Simon &amp; Schuster,Mary Higgins Clark,False
+764,The Vineyard : A Novel,1F Section: 4,0684864843,Simon &amp; Schuster,Barbara Delinsky,False
+765,The Looking Glass : A Novel (The Locket Series),2F Section: 25,0684867818,Simon &amp; Schuster,Richard Paul Evans,False
+766,If Only It Were True,2F Section: 11,0743406176,Atria,Marc Levy,False
+767,Dear Stranger Dearest Friend,1F Section: 29,0380978539,William Morrow &amp; Company,Laney Katz Becker,False
+768,The Cider House Rules: A Novel (Modern Library),1F Section: 15,0679603352,Modern Library,John Irving,False
+769,Lolita (Everyman's Library (Cloth)),1F Section: 19,0679410430,Everyman's Library,VLADIMIR NABOKOV,False
+770,Message in a Bottle,3F Section: 5,0446523569,Warner Books,Nicholas Sparks,False
+771,Blackbird: A Childhood Lost and Found,3F Section: 22,0671042556,Atria,Jennifer Lauck,False
+772,Protect and Defend,1F Section: 16,0679450440,Random House Inc,Richard North Patterson,False
+773,Blue Heaven (Contemporary American Fiction S.),2F Section: 24,0140107649,Penguin Books,Joe Keenan,False
+774,Julie and Romeo,2F Section: 0,0609606727,Harmony,Jeanne Ray,False
+775,The Guardian,2F Section: 24,0446527793,Warner Books,Nicholas Sparks,False
+776,Nights in Rodanthe,2F Section: 5,0446531332,Warner Books,Nicholas Sparks,False
+777,Man and Boy,1F Section: 15,1570717257,Sourcebooks Landmark,Tony Parsons,False
+778,One Heart,3F Section: 12,0060192631,HarperCollins Publishers,Jane McCafferty,False
+779,Like Water for Chocolate: A Novel in Monthly Installments With Recipes Romances and Home Remedies,3F Section: 14,0385420161,Doubleday Books,Laura Esquivel,False
+780,The Two Towers (The Lord of the Rings Part 2),3F Section: 6,0345339711,Del Rey,J.R.R. TOLKIEN,True
+781,All of Me: A Voluptuous Tale,2F Section: 11,052594463X,Dutton Books,Venise T. Berry,False
+782,The Perfect Storm: A True Story of Men Against the Sea,1F Section: 26,039304016X,Little Brown and Company,Sebastian Junger,False
+783,The Villa,3F Section: 18,0399147128,Putnam Publishing Group,Nora Roberts,False
+784,In This Mountain,1F Section: 24,0670031046,Viking Books,Jan Karon,False
+785,All the Pretty Horses (Border Trilogy Vol 1),3F Section: 19,0394574745,Alfred A. Knopf,Cormac McCarthy,False
+786,Suzanne's Diary for Nicholas,1F Section: 29,0316969443,Little Brown,James Patterson,False
+787,He Sees You When You're Sleeping : A Novel,3F Section: 4,0743230051,Scribner,Mary Higgins Clark,False
+788,2nd Chance,2F Section: 25,0316693200,Little Brown,James Patterson,False
+789,The Carousel : A Novel,1F Section: 28,0684868911,Simon &amp; Schuster,Richard Paul Evans,False
+790,The Promise Remains,1F Section: 15,0842336214,Tyndale House Publishers,Travis Thrasher,False
+791,You Cannot Be Serious,3F Section: 4,0399148582,Putnam Publishing Group,John McEnroe,False
+792,LAKE NEWS : A Novel,1F Section: 14,0684864320,Simon &amp; Schuster,Barbara Delinsky,False
+793,Liar's Game,3F Section: 28,0525944834,Dutton Books,Eric Jerome Dickey,False
+794,Out of the Blue,3F Section: 24,0345428900,Ballantine Books,Sally Mandel,False
+795,Voice of the Eagle,3F Section: 13,0451176812,Signet Book,Linda Lay Shuler,False
+796,The Kingdom by the Sea: A Journey Around Great Britain,1F Section: 15,0671525794,Pocket Books,Paul Theroux,False
+797,Shattered Uk,1F Section: 5,0718144538,Michael Joseph Ltd,Dick Francis,False
+798,The Proud and the Free,3F Section: 29,0446602086,Warner Vision,Janet Dailey,False
+799,Shoah,1F Section: 6,0394551427,Random House Inc,Claude Lanzmann,False
+800,The Bad Beginning (A Series of Unfortunate Events Book 1),3F Section: 8,0064407667,HarperCollins,Lemony Snicket,False
+801,TERROR FIRMA,2F Section: 11,0007100221,Trafalgar Square,Matthew Thomas,False
+802,Le Loup-garou,2F Section: 29,2253148539,LGF,Boris Vian,False
+803,Chronique d'une mort annoncÃ?Â©e,1F Section: 24,2253043974,LGF,Gabriel Garcia Marquez,True
+804,Le neveu d'AmÃ?Â©rique,1F Section: 13,2020315491,Seuil,Luis SepÃ?Âºlveda,False
+805,Last Exit to Brooklyn,2F Section: 13,0747549923,Bloomsbury Pub Ltd,Hubert Selby,False
+806,More George W. Bushisms: More Verbal Contortions from America's 43rd President,1F Section: 6,0743462335,Simon &amp; Schuster (Trade Division),Jacob Weisberg,False
+807,Therapy,1F Section: 1,0140253580,Penguin Putnam~trade,David Lodge,False
+808,Scottish Ghosts,2F Section: 20,0947782141,Lomond Books,Judy Hamilton,False
+809,Awful End (Eddie Dickens Trilogy S.),2F Section: 15,057120354X,Faber Children's Books,Philip Ardagh,False
+810,The Wasp Factory,2F Section: 16,0349101779,Abacus,Iain Banks,False
+811,George W. Bushisms : The Slate Book of The Accidental Wit and Wisdom of our 43rd President,1F Section: 29,0743222229,Fireside,Jacob Weisberg,False
+812,The World's Stupidest Laws,2F Section: 12,185479549X,Michael O'Mara Books,David Crombie,False
+813,"Of Mice and Men (Steinbeck \Essentials\"")""",2F Section: 25,0140292918,Penguin Books Ltd,John Steinbeck,False
+814,The World's Stupidest Signs,1F Section: 26,1854795554,Michael O'Mara Books,Michael O'Mara,False
+815,Nessie: The Loch Ness Monster,2F Section: 7,1858813093,Trafalgar Square Books,Richard Brassey,False
+816,XIII tome 13 L'enquÃ?Âªte : the XIII mystery,1F Section: 14,2871290911,Dargaud,Jean Van Hamme,False
+817,How Not to Say What You Mean: A Dictionary of Euphemisms (Oxford Paperback Reference S.),1F Section: 19,0198604025,Oxford University Press,R. W. Holder,False
+818,Cooking for One (Cook's Essentials),1F Section: 6,1842151053,Southwater Publishing,Valerie Ferguson,False
+819,Les Fourmis,1F Section: 16,2253063339,LGF,Bernard Werber,False
+820,How to Draw Celtic Knotwork: A Practical Handbook,1F Section: 15,1860198597,Brockhampton Press,Andy Sloss,False
+821,The Sorcerer's Companion: A Guide to the Magical World of Harry Potter,2F Section: 2,0767908473,Broadway,ALLAN ZOLA KRONZEK,False
+822,Celtic Myths and Legends,1F Section: 17,1842040154,Lomond Books,Charles L. Squire,False
+823,Scottish Folk and Fairy Tales (Penguin Popular Classics),1F Section: 3,0140622063,Penguin Books Ltd,Gordon Jarvie,False
+824,Terrible Times (Eddie Dickens Trilogy S.),1F Section: 2,0571209521,Faber Children's Books,Philip Ardagh,False
+825,CantilÃ¨nes en gelÃ©e ; Barnum's digest ; Vingt poÃ¨mes inÃ©dits (10/18 [i.e. Dix/dix-huit] ; 517),3F Section: 0,2264009306,Union gÃ©nÃ©rale d'Ã©ditions,Boris Vian,False
+826,Glasgow Zen,3F Section: 14,1841952931,Canongate Books Ltd,Alan Spence,False
+827,Totally Muffins Cookbook (Totally Cookbooks),1F Section: 20,0890877564,Celestial Arts,Helene Siegel,False
+828,Tigger's Little Book of Diet and Exercise,3F Section: 25,1405200677,Egmont Childrens Books,E.H. Shepard,False
+829,Eeyore's Little Book of Gloom,3F Section: 6,0416196772,Routledge,Alan Alexander Milne,True
+830,The Adventures of Dougal,3F Section: 9,0747538069,Bloomsbury Publishing PLC,Eric Thompson,False
+831,Amy and Isabelle,3F Section: 26,0375501347,Random House Inc,Elizabeth Strout,False
+832,Rule of the Bone : Novel A,1F Section: 24,0060927240,Perennial,Russell Banks,False
+833,Me Talk Pretty One Day,1F Section: 8,0316776963,Back Bay Books,David Sedaris,False
+834,Stone Butch Blues,3F Section: 21,156341029X,Firebrand Books,Leslie Feinberg,False
+835,stardust,1F Section: 14,0060934719,Perennial,Neil Gaiman,False
+836,Fires of Aggar,1F Section: 24,1886383421,Windstorm Creative,Chris Anne Wolfe,False
+837,Kamikaze Lust,3F Section: 19,1888451084,Akashic Books,Lauren Sanders,False
+838,Gossamer Axe,3F Section: 9,0451450256,New Amer Library,Gael Baudino,False
+839,Witchfire,2F Section: 0,1555835953,Alyson Books,Lauren Maddison,False
+840,Seven Moves,2F Section: 2,0395877563,Mariner Books,Carol Anshaw,False
+841,Return to Isis,2F Section: 12,0962893862,Rising Tide Press (AZ),Jean Stewart,False
+842,Hood,1F Section: 8,1555834531,Alyson Publications,Emma Donoghue,False
+843,Leaving Pipe Shop: Memories of Kin,1F Section: 9,0393318435,W. W. Norton &amp; Company,Deborah McDowell,False
+844,Love Ruins Everything: A Novel,2F Section: 26,0889740828,Press Gang Publishers,Karen X. Tulchinsky,False
+845,Skin: Talking About Sex Class &amp; Literature,2F Section: 9,1563410443,Firebrand Books,Dorothy Allison,False
+846,Death: At Death's Door (Vertigo Number 1),1F Section: 0,1563899388,DC Comics,Jill Thompson,False
+847,The Second Coming of Curly Red,2F Section: 10,1563411148,Firebrand Books,Jody Seay,False
+848,Night Mares,3F Section: 2,0553579681,Crimeline,Manda Scott,False
+849,Hen's Teeth,2F Section: 14,0553579673,Bantam Books,Manda Scott,True
+850,The Door to December,2F Section: 24,0451181379,Signet Book,Dean R. Koontz,False
+851,No Shirt No Shoes No Problem!,3F Section: 2,0786889160,Warner Books (Mm),Jeff Foxworthy,False
+852,The Scions of Shannara (Heritage of Shannara (Paperback)),3F Section: 13,0345370740,Del Rey Books,Terry Brooks,False
+853,Star Wars the Rebel Dawn: The Han Solo Trilogy (Star Wars: Han Solo Trilogy (Paperback)),2F Section: 25,0553574175,Spectra Books,A.C. Crispin,False
+854,The Hutt Gambit (Star Wars: The Han Solo Trilogy Vol. 2),2F Section: 19,0553574167,Bantam Books,A. C. Crispin,False
+855,The Paradise Snare (Star Wars: The Han Solo Trilogy Volume 1),1F Section: 2,0553574159,Spectra Books,A. C. Crispin,False
+856,A Year of Full Moons,2F Section: 16,0312287240,Stonewall Inn Editions,Madelyn Arnold,False
+857,Alanna: The First Adventure (Song of the Lioness (Paperback)),2F Section: 17,0679801146,Random House Children's Books,Tamora Pierce,False
+858,The Beans of Egypt Maine,1F Section: 0,0446300101,Warner Books,Carolyn Chute,False
+859,Warrior Moon,1F Section: 22,0821750410,Zebra Books,Sara Orwig,False
+860,The Funhouse,2F Section: 0,0425142485,Berkley Publishing Group,Dean R. Koontz,False
+861,Cold Iron,3F Section: 18,0451456548,Roc,Melisa Michaels,False
+862,Circle of Three #12: Written in the Stars (Circle of Three),3F Section: 5,0060006048,Avon,Isobel Bird,False
+863,The Space Merchants,1F Section: 3,0312906552,St Martins Pr,Frederik Pohl,False
+864,DREAMSNAKE,2F Section: 8,0440117291,Dell,VONDA MCINTYRE,False
+865,Titan,2F Section: 20,0425049981,Berkley Publishing Group,John Varley,False
+866,The Year They Burned the Books,2F Section: 26,0374386676,Farrar Straus Giroux,Nancy Garden,False
+867,A Density of Souls,2F Section: 16,0786886463,Miramax,Christopher Rice,True
+868,Slow River,2F Section: 9,0345395379,Ballantine Books,Nicola Griffith,False
+869,Changer,3F Section: 16,0380788497,Eos,Jane Lindskold,False
+870,Trixie Belden and the Mystery Off Glen Road (Mystery Off Glen Road),3F Section: 19,0307215342,Random House Childrens Books,Julie Campbell,False
+871,Lark in the Morning,2F Section: 5,0374343381,Farrar Straus &amp; Giroux,Nancy Garden,False
+872,Saving Grace,1F Section: 16,0345403339,Ballantine Books,LEE SMITH,False
+873,Lena (50 State Quarters),1F Section: 0,0440226694,Laurel Leaf,JACQUELINE WOODSON,False
+874,I Hadn't Meant to Tell You This,2F Section: 1,0440219604,Laurel-Leaf Books,Jacqueline Woodson,False
+875,Raise the Roof: The Inspiring Inside Story of the Tennessee Lady Vols' Undefeated 1997-98 Season,2F Section: 27,0767903285,Broadway Books,Pat Head Summitt,False
+876,Ufos JFK and Elvis: Conspiracies You Don't Have to Be Crazy to Believe,2F Section: 9,0345429176,Ballantine Books,Richard Belzer,False
+877,Hannibal,3F Section: 9,038529929X,Del Sol Press,Thomas Harris,False
+878,About a Boy (Movie Tie-In),3F Section: 12,1573229571,Riverhead Books,Nick Hornby,False
+879,Mostly Harmless,2F Section: 12,0345418778,Ballantine Books,Douglas Adams,False
+880,The Thorn Birds (Modern Classics),2F Section: 16,0517201658,Wings,Colleen McCullough,False
+881,Dreamcatcher,3F Section: 19,0743211383,Scribner,Stephen King,False
+882,Sudden Mischief (Spenser Mysteries (Hardcover)),3F Section: 1,039914370X,Putnam Pub Group,Robert B. Parker,False
+883,Elements of Programming With Perl,1F Section: 10,1884777805,Manning Publications,Andrew L. Johnson,True
+884,To Catch a Cat,2F Section: 9,0312977905,St. Martin's Minotaur,Marian Babson,False
+885,People of the Wolf (The First North Americans series Book 1),1F Section: 29,0812521331,Tor Books,W. Michael Gear,False
+886,The Door to December,1F Section: 28,0451205421,Signet Book,Dean R. Koontz,False
+887,College Majors and Careers: A Resource Guide for Effective Life Planning (College Majors and Careers),1F Section: 12,0894342789,Ferguson Publishing Company,Paul Phifer,False
+888,Smilla's Sense of Snow,1F Section: 2,0440218535,Island,Peter Hoeg,False
+889,The Grass Is Always Greener over the Septic Tank,2F Section: 22,0449207595,Fawcett Books,Erma Bombeck,False
+890,Viaggi del tempo immobile (I coralli),3F Section: 15,8806142267,Einaudi,Roberto Vecchioni,False
+891,Rumpole on Trial,1F Section: 21,0670844594,Penguin USA,John Mortimer,False
+892,Billy Bathgate,1F Section: 2,039457513X,Random House,E. L. Doctorow,False
+893,Citizens: A Chronicle of the French Revolution,2F Section: 28,0394559487,Random House Inc,Simon Schama,False
+894,The Man Who Killed the Deer,1F Section: 17,0804001944,Ohio University Press,Frank Waters,False
+895,The Music of Dolphins (Apple Signature Edition),1F Section: 20,0590897985,Hyperion Books for Children,Karen Hesse,False
+896,Sunwing (Aladdin Fantasy),1F Section: 15,0689832877,Aladdin,Kenneth Oppel,False
+897,Caddie Woodlawn - Newbery Promo '99 (Aladdin Fiction),1F Section: 13,0689829698,Aladdin,Carol Ryrie Brink,False
+898,The Hork-Bajir Chronicles (Animorphs Series),3F Section: 25,0439042917,Scholastic,K. A. Applegate,False
+899,The Silver Chair (full color) (Narnia),1F Section: 5,0064409457,HarperTrophy,C. S. Lewis,False
+900,The Magician's Nephew (Narnia),2F Section: 12,0064405052,HarperTrophy,C. S. Lewis,False
+901,Circles in the Stream (Avalon: Web of Magic 1),2F Section: 21,043922165X,Scholastic,Shelly R. Roberts,False
+902,High Wizardry: The Third Book in the Young Wizards Series,1F Section: 9,0152162445,Magic Carpet Books,Diane Duane,False
+903,Deep Wizardry: The Second Book in the Young Wizards Series,1F Section: 8,0152162577,Magic Carpet Books,Diane Duane,False
+904,So You Want to Be a Wizard: The First Book in the Young Wizards Series,1F Section: 18,015216250X,Magic Carpet Books,Diane Duane,False
+905,Going for Great (Ag Fiction (American Girl)),3F Section: 22,1562477528,Pleasant Company Publications,Carolee Brockmann,False
+906,All That Glitters (Avalon 2),1F Section: 29,0439221676,Scholastic,Rachel Roberts,False
+907,Cry of the Wolf (Avalon 3),1F Section: 21,0439221684,Scholastic,Rachel Roberts,False
+908,The Secret of the Unicorn (Avalon Web of Magic 4),2F Section: 0,0439221714,Scholastic Paperbacks,Rachel Roberts,False
+909,Avalon: Web Of Magic #5: Spellsinger,1F Section: 18,0439221706,Scholastic Paperbacks,Rachel Roberts,False
+910,Trial by Fire,2F Section: 24,0439221730,Scholastic Paperbacks,Rachel Roberts,False
+911,Ties That Bind Ties That Break (Laurel-Leaf Books),2F Section: 8,0440415993,Laurel-Leaf Books,Lensey Namioka,False
+912,The Hauntings of Williamsburg Yorktown and Jamestown,2F Section: 7,0895872102,John F. Blair Publisher,Jackie Eileen Behrend,False
+913,The Janitor's Boy,3F Section: 12,068983585X,Aladdin,Andrew Clements,False
+914,The Hitchhiker's Guide to the Galaxy,3F Section: 21,0345391802,Ballantine Books,Douglas Adams,False
+915,The Giver (21st Century Reference),2F Section: 23,0440219078,Laure Leaf,LOIS LOWRY,False
+916,The Heavenly Man: The Remarkable True Story of Chinese Christian Brother Yun,2F Section: 9,185424597X,Monarch Books,Paul Hattaway,False
+917,The Little Book of Chocolate (Little Book Of...(Flammarion)),3F Section: 3,2080105434,Flammarion,Alain Stella,False
+918,Das Schlampenbuch. ErzÃ?Â¤hlungen. ( neue frau).,3F Section: 3,349913358X,Rowohlt Tb.,Milena Moser,False
+919,Die zwei Gesichter des Januars.,1F Section: 22,3257201761,Diogenes Verlag,Patricia Highsmith,False
+920,Nacht Ã?Â¼ber den Wassern.,3F Section: 14,3404121686,LÃ?Â¼bbe,Ken Follett,False
+921,Die SÃ?Â¤ulen der Erde. Roman.,2F Section: 6,3404118960,LÃ?Â¼bbe,Ken Follett,False
+922,A Man Rides Through (Man Rides Through),2F Section: 0,0345356578,Del Rey Books,Stephen Donaldson,True
+923,Mirror of Her Dreams (Mordant's Need),1F Section: 10,0345346971,Del Rey,STEPHEN R. DONALDSON,True
+924,Reader,1F Section: 10,0753804700,Phoenix Books,Bernhard Schlink,False
+925,The Dead Zone,2F Section: 8,0451155750,Signet Book,Stephen King,False
+926,The Diary of Ellen Rimbauer: My Life at Rose Red,3F Section: 11,0786890436,Hyperion Press,Ellen Rimbauer,False
+927,A New Germany in a New Europe,2F Section: 12,0415928087,Routledge,Todd Herzog,False
+928,Belonging in the Two Berlins : Kin State Nation (Cambridge Studies in Social and Cultural Anthropology),1F Section: 4,0521427150,Cambridge University Press,John Borneman,False
+929,The Great Depression : America 1929-1941,3F Section: 28,0812923278,Three Rivers Press,ROBERT S. MCELVAINE,False
+930,Lady of the Shroud,2F Section: 14,0884111342,Amereon Limited,Bram Stoker,False
+931,Dark Tide I: Onslaught (Star Wars: The New Jedi Order Book 2),1F Section: 20,0345428544,Del Rey Books,Michael A. Stackpole,False
+932,LONG DARK TEA TIME OF THE SOUL,1F Section: 25,0671694049,Pocket,Douglas Adams,False
+933,The Return of Simple,2F Section: 15,080901582X,Hill &amp; Wang,Langston Hughes,False
+934,Half Moon Street (Charlotte &amp; Thomas Pitt Novels (Paperback)),3F Section: 11,0449006557,Ballantine Books,Anne Perry,False
+935,A Minor Indiscretion (Red Dress Ink (Paperback)),1F Section: 16,0373250339,Red Dress Ink,Carol Matthews,False
+936,For Better for Worse: A Novel,1F Section: 22,0380820447,Avon Trade,Carole Matthews,False
+937,Hidden in Plain View: A Secret Story of Quilts and the Underground Railroad,3F Section: 0,0385497679,Anchor Pub,Jacqueline L. Tobin,False
+938,The Forest House,2F Section: 22,0451454243,Roc,Marion Zimmer Bradley,False
+939,American Poetry Since 1970: Up Late,1F Section: 0,0941423042,Four Walls Eight Windows,Andrei Codrescu,False
+940,Twin Blessings (Love Inspired (Numbered)),3F Section: 23,0373871562,Steeple Hill,Carolyne Aarsen,False
+941,West of Dodge: Frontier Stories,1F Section: 7,0553101439,Bantam,Louis L'Amour,False
+942,How to Make $1000 a Minute: Negotiating Salaries and Raises,3F Section: 25,0898151910,Ten Speed Pr,Jack Chapman,False
+943,Non-manipulative selling,2F Section: 6,0835949362,Reston Pub. Co,Anthony J Alessandra,False
+944,Come Before Winter and Share My Hope,2F Section: 18,0880701102,Word Publishing,Charles R. Swindoll,False
+945,The Bear and the Dragon,1F Section: 21,039914563X,G. P. Putnam's Sons,Tom Clancy,False
+946,Ender's Game (Ender Wiggins Saga (Paperback)),1F Section: 18,0312853238,Tor Books,Orson Scott Card,False
+947,Thinking on paper,1F Section: 23,0688048730,W. Morrow,V. A Howard,False
+948,Net Force,3F Section: 16,0425161722,Berkley Publishing Group,Tom Clancy,False
+949,The Testament,2F Section: 8,0385493800,Doubleday Books,John Grisham,False
+950,The Internet Church,3F Section: 18,0849916399,W Publishing Group,Walter P. Wilson,False
+951,The Mp3 and Internet Audio Handbook: Your Guide to the Digital Music Revolution,3F Section: 15,1928791107,Teamcom Books,Bruce Fries,False
+952,The Way Things Ought to Be,1F Section: 9,067175145X,Pocket Books,Rush H. III Limbaugh,False
+953,A Time to Kill,1F Section: 23,0440211727,Dell,JOHN GRISHAM,False
+954,The Truth About Texas: Who Needs to Brag? We'Ve Got the Facts,1F Section: 4,0877192820,Gulf Publishing Company,Anne Dingus,False
+955,Awakening,2F Section: 14,0380002450,Avon,Kate Chopin,False
+956,Wall Street's Picks for 2000: An Insider's Guide to the Year's Best Stocks &amp; Mutual Funds (Wall Street's Picks),2F Section: 8,0793133955,Dearborn Financial Publishing,Kirk Kazanjian,False
+957,Poetics of the New American Poetry,3F Section: 21,0394178017,Grove Press,Donald Merriam Allen,False
+958,Patriot Games,1F Section: 11,0425134350,Berkley Publishing Group,Tom Clancy,False
+959,Dead Men Do Tell Tales: The Strange and Fascinating Cases of a Forensic Anthropologist,1F Section: 28,0385479689,Main Street Books,William Maples,False
+960,Moonlighting: 148 Great Ways to Make Money on the Side,3F Section: 27,0380754851,Harpercollins,Carl Hausman,False
+961,Amanda Miranda,2F Section: 8,0380538504,Harper Mass Market Paperbacks (Mm),Richard Peck,False
+962,Chasing the Dime,3F Section: 9,044661162X,Warner Books,Michael Connelly,False
+963,Tender Triumph (Sonnet Books),2F Section: 13,0671742566,Pocket,Judith McNaught,False
+964,The Cat Who Tailed a Thief,1F Section: 14,0515122408,Jove Books,Lilian Jackson Braun,False
+965,Guilt,1F Section: 9,0440222818,Island,John T. Lescroart,False
+966,On Secret Service,1F Section: 7,0451204050,Signet Book,John Jakes,False
+967,Charming Billy,3F Section: 16,038533334X,Delta,Alice McDermott,False
+968,All the Days of My Life,3F Section: 21,0449131548,Fawcett Books,Hilary Bailey,False
+969,The Dinner Party,3F Section: 5,0440120470,Dell Publishing Company,Howard Fast,False
+970,A Palette for Murder: Murder She Wrote (Murder She Wrote (Paperback)),2F Section: 16,0451188209,Signet Book,Jessica Fletcher,False
+971,Golden Cup,1F Section: 15,0440130913,Dell,Belva Plain,False
+972,Murder at the Library of Congress (Capital Crimes (Paperback)),3F Section: 22,0449001954,Fawcett Books,Margaret Truman,False
+973,No Safe Place,3F Section: 0,0345404777,Ballantine Books,RICHARD NORTH PATTERSON,False
+974,Thorns of Truth,3F Section: 27,0451185277,Signet Book,Eileen Goudge,False
+975,Granny Dan,1F Section: 22,0440224829,Random House Inc.,DANIELLE STEEL,False
+976,Border Bride,1F Section: 7,0671779338,Pocket,Arnette Lamb,False
+977,The Penwyth Curse,3F Section: 23,0515134368,Jove Books,Catherine Coulter,False
+978,Xanth 15: The Color of Her Panties,1F Section: 22,0380759497,Eos,Piers Anthony,False
+979,Der FÃ?Â¼rst der Finsternis. Roman.,2F Section: 6,3442098424,Goldmann,Anne Rice,False
+980,A Reporter's Life,1F Section: 22,0394578791,Knopf,WALTER CRONKITE,False
+981,Jacob Marley's Christmas Carol,1F Section: 23,1558505377,Adams Media Corp,Tom Mula,False
+982,Practice Makes Pregnant   Manhattan Multiples (Silhouette Special Edition 1569),1F Section: 24,0373245696,Silhouette,Lois Faye Dyer,False
+983,The Secret Lives of Girls: What Good Girls Really Do--Sex Play Aggression and Their Guilt,1F Section: 23,0743201078,Free Press,Sharon Lamb,False
+984,Hound of the Baskervilles (Aladdin Classics),3F Section: 11,068983571X,Aladdin,Sir Arthur Conan Doyle,False
+985,SLEEPING MURDER,2F Section: 24,0553256785,Bantam,AGATHA CHRISTIE,False
+986,The Fractal Murders (Pepper Keane Mysteries),1F Section: 26,0892967994,Mysterious Press,Mark Cohen,False
+987,Blowtorch Psycho.Com (Bone Chillers No 18),2F Section: 17,0061064505,Harpercollins Juvenile Books,Sherry Shahan,False
+988,Final Stand,2F Section: 27,1551668785,Mira,Helen Myers,False
+989,Christmas : A Holiday Treasury,3F Section: 19,0836230868,Andrews McMeel Publishing,Della Rowland,False
+990,Magic House of Numbers.,2F Section: 17,0381999866,Harpercollins Library,Irving. Adler,False
+991,Lord of the Silent: A Novel of Suspense,1F Section: 1,0380817144,Avon,Elizabeth Peters,False
+992,Whisper to Me of Love,1F Section: 9,0380752115,Harper Mass Market Paperbacks,Shirlee Busbee,False
+993,Wuthering Heights,3F Section: 28,0553212583,Bantam,EMILY BRONTE,False
+994,The Stars Shine Down,2F Section: 20,0446364762,Warner Books,Sidney Sheldon,False
+995,Toxin,3F Section: 17,0425166619,Berkley Publishing Group,Robin Cook,True
+996,This Present Darkness,3F Section: 13,061312975X,Sagebrush Bound,Frank E. Peretti,False
+997,The Mothman Prophecies,3F Section: 11,0765341972,Tor Books,John A. Keel,False
+998,Meet the Stars of Buffy the Vampire Slayer,1F Section: 7,0590514776,Scholastic,Stefanie Scott,False
+999,Rush to the Altar  (Twin Brides),1F Section: 11,0373037430,Harlequin,Rebecca Winters,False
