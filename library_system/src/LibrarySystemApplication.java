@@ -16,7 +16,8 @@ public class LibrarySystemApplication {
             Scanner in = new Scanner(System.in);
             View mainView = new MainMenuView();
             mainView.run(in);
-            in.close();
+            System.out.println("Press Enter");
+            in.nextLine();
         }
 
     }
