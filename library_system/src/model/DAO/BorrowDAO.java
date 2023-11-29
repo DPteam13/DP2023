@@ -65,6 +65,7 @@ public class BorrowDAO {
                 + '"' + LocalDate.now() + '"' + "," + '"' + LocalDate.now().plusDays(30) + '"' + "," +
                 '"' + CommonConstants.NOT_EXTENDED +'"' + ","+'"' +  CommonConstants.NOT_RETURNED +'"' +  ")";
         int result = DBConnectionManager.executeUpdate(sql);
+        Borrow.setIdCounter(Borrow.getIdCounter() + 1);
         return result;
     }
 
