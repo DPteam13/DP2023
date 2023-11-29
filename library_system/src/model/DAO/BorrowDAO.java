@@ -14,6 +14,20 @@ public class BorrowDAO {
 
     private static BorrowDAO instance = new BorrowDAO();
     private BorrowDAO(){
+        String sql = "SELECT borrowId " +
+                "FROM borrow";
+        try {
+            ResultSet result = DBConnectionManager.executeQuery(sql);
+            int counter = 1 ;
+            while(result.next()){
+                counter++;
+            }
+            Borrow.setIdCounter(counter);
+        }catch (SQLException e) {
+            e.printStackTrace();
+            Borrow.setIdCounter(10000);
+        }
+
     }
     public static BorrowDAO getInstance(){
         return instance;
@@ -32,11 +46,11 @@ public class BorrowDAO {
         ArrayList<Borrow> borrowListResult = new ArrayList<>();
         while(resultSet.next()){
             Borrow borrow = new Borrow(
-                    resultSet.getInt("user_id"),
-                    resultSet.getInt("book_id"),
-                    resultSet.getString("borrow_date"),
-                    resultSet.getString("return_date"),
-                    resultSet.getInt("is_returned")
+                    resultSet.getInt("userId"),
+                    resultSet.getInt("bookId"),
+                    resultSet.getString("startTime"),
+                    resultSet.getString("dueTime"),
+                    resultSet.getInt("isReturned")
             );
             borrowListResult.add(borrow);
         }
@@ -46,10 +60,10 @@ public class BorrowDAO {
 
     public int borrow(int bookId, int userId) throws SQLException{
         String sql =
-                "INSERT INTO borrow (userId, bookId, startTime, dueTime, isExtended, status) " +
-                        "VALUES (" + userId + ", " + bookId + ", "
-                        + '"' + LocalDate.now() + '"' + "," + '"' + LocalDate.now().plusDays(30) + '"' + "," +
-                        '"' + CommonConstants.NOT_EXTENDED +'"' + ","+'"' +  CommonConstants.NOT_RETURNED +'"' +  ")";
+                "INSERT INTO borrow (borrowId, userId, bookId, startTime, dueTime, isExtended, status) " +
+                "VALUES (" + Borrow.getIdCounter() + ", " + userId + ", " + bookId + ", "
+                + '"' + LocalDate.now() + '"' + "," + '"' + LocalDate.now().plusDays(30) + '"' + "," +
+                '"' + CommonConstants.NOT_EXTENDED +'"' + ","+'"' +  CommonConstants.NOT_RETURNED +'"' +  ")";
         int result = DBConnectionManager.executeUpdate(sql);
         return result;
     }

@@ -18,6 +18,14 @@ public class Borrow {
         this.isReturned = isReturned;
     }
 
+    public static void setIdCounter(int id){
+        idCounter = id;
+    }
+
+    public static int getIdCounter(){
+        return idCounter;
+    }
+
     public int getId() {
         return id;
     }
