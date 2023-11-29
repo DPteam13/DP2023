@@ -222,3 +222,6 @@ Temporary Items
 Holup/.idea/
 Holup/bin
 Holup/classes
+
+# Project Configure
+*.iml
