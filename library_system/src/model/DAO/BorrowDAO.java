@@ -56,7 +56,7 @@ public class BorrowDAO {
 
     public int returnBook(int bookId) throws SQLException{
         //TODO : check status first. 대출 중일 때 반납 처리 가능
-        String sql = "UPDATE borrow SET is_returned = " + CommonConstants.RETURNED + " WHERE book_id = " + bookId;
+        String sql = "UPDATE borrow SET status = " + '"' + CommonConstants.RETURNED + '"' + " WHERE bookId = " + bookId;
         int result = DBConnectionManager.executeUpdate(sql);
         return result;
     }

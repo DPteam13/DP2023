@@ -1,6 +1,6 @@
 Borrow
 borrowId,userId,bookId,startTime,dueTime,isExtended,status
-0,21,16,2023-12-02,2023-12-09,False,borrowing
+0,21,16,2023-12-02,2023-12-09,False,returned
 1,79,102,2023-11-27,2023-12-04,False,borrowing
 2,60,112,2023-11-28,2023-12-05,False,borrowing
 3,65,139,2023-11-27,2023-12-09,True,borrowing
@@ -20,3 +20,4 @@ borrowId,userId,bookId,startTime,dueTime,isExtended,status
 17,45,800,2023-11-26,2023-12-03,False,borrowing
 18,40,803,2023-12-05,2023-12-12,False,borrowing
 19,47,999,2023-11-28,2023-12-05,False,borrowing
+,10,16,2023-11-29,2023-12-29,FALSE,borrowing
