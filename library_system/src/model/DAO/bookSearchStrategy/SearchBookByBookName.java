@@ -15,9 +15,10 @@ public class SearchBookByBookName implements SearchBook{
 
     public ResultSet search(String bookName) throws SQLException {
         String sql =
-                "SELECT *" +
-                "FROM book" +
+                "SELECT * " +
+                "FROM book " +
                 "WHERE name = " + bookName;
+
 
         ResultSet resultSet = DBConnectionManager.executeQuery(sql);
         return resultSet;

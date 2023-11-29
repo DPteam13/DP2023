@@ -17,8 +17,8 @@ public class SearchBookByAuthorName implements SearchBook{
         String sql =
                 "SELECT *" +
                         "FROM book" +
-                        "WHERE name = " + bookName;
-
+                        "WHERE name = ?";
+        
         ResultSet resultSet = DBConnectionManager.executeQuery(sql);
         return resultSet;
     }

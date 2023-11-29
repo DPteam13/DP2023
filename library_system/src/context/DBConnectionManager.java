@@ -5,7 +5,7 @@ import java.sql.*;
 public class DBConnectionManager {
     public static Connection getConnection(){
         String driver = "com.holub.database.jdbc.JDBCDriver";
-        String url = "";	// TODO 추가
+        String url = "file:/C:/Users/99san/DP2023/library_system/data";
         String id = "root";
         String pwd = "1234";
 

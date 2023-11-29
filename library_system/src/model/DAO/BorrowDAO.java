@@ -7,6 +7,7 @@ import common.domain.Borrow;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.time.LocalDate;
 import java.util.ArrayList;
 
 public class BorrowDAO {
@@ -45,12 +46,10 @@ public class BorrowDAO {
 
     public int borrow(int bookId, int userId) throws SQLException{
         String sql =
-                "INSERT INTO borrow (user_id, book_id, borrow_date, return_date, is_returned) " +
-                        "VALUES (" + userId + ", " +
-                         bookId + ", " +
-                        "NOW(), " +
-                        "DATE_ADD(NOW(), INTERVAL 30 DAY), "
-                        + CommonConstants.NOT_RETURNED + ")";
+                "INSERT INTO borrow (userId, bookId, startTime, dueTime, isExtended, status) " +
+                        "VALUES (" + userId + ", " + bookId + ", "
+                        + '"' + LocalDate.now() + '"' + "," + '"' + LocalDate.now().plusDays(30) + '"' + "," +
+                        '"' + CommonConstants.NOT_RETURNED +'"' + ","+'"' +  CommonConstants.NOT_EXTENDED +'"' +  ")";
         int result = DBConnectionManager.executeUpdate(sql);
         return result;
     }
