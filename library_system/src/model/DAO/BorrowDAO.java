@@ -49,7 +49,7 @@ public class BorrowDAO {
                 "INSERT INTO borrow (userId, bookId, startTime, dueTime, isExtended, status) " +
                         "VALUES (" + userId + ", " + bookId + ", "
                         + '"' + LocalDate.now() + '"' + "," + '"' + LocalDate.now().plusDays(30) + '"' + "," +
-                        '"' + CommonConstants.NOT_RETURNED +'"' + ","+'"' +  CommonConstants.NOT_EXTENDED +'"' +  ")";
+                        '"' + CommonConstants.NOT_EXTENDED +'"' + ","+'"' +  CommonConstants.NOT_RETURNED +'"' +  ")";
         int result = DBConnectionManager.executeUpdate(sql);
         return result;
     }
