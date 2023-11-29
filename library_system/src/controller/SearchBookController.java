@@ -2,6 +2,7 @@ package controller;
 
 import model.DAO.BookDAO;
 import model.DAO.BorrowDAO;
+import model.DAO.bookSearchStrategy.SearchBookByAuthorName;
 import model.DAO.bookSearchStrategy.SearchBookByBookName;
 import common.domain.Book;
 
@@ -39,7 +40,7 @@ public class SearchBookController {
     public ArrayList<Book> searchByAuthor(String author){
         ArrayList<Book> bookList = new ArrayList<>();
         try {
-            bookList = bookDAO.search(author, SearchBookByBookName.getInstance());
+            bookList = bookDAO.search(author, SearchBookByAuthorName.getInstance());
         } catch (SQLException e) {
             e.printStackTrace();
         }

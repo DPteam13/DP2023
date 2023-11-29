@@ -2,23 +2,22 @@ package model.DAO.bookSearchStrategy;
 
 import context.DBConnectionManager;
 
-import java.sql.ResultSet;
-import java.sql.SQLException;
+import java.sql.*;
 
 public class SearchBookByAuthorName implements SearchBook{
 
-    private SearchBookByAuthorName instance = new SearchBookByAuthorName();
+    private static SearchBookByAuthorName instance = new SearchBookByAuthorName();
 
-    public SearchBookByAuthorName getInstance(){
+    public static SearchBookByAuthorName getInstance(){
         return instance;
     }
     private SearchBookByAuthorName(){}
-    public ResultSet search(String bookName) throws SQLException {
+    public ResultSet search(String authorName) throws SQLException {
         String sql =
-                "SELECT *" +
-                        "FROM book" +
-                        "WHERE name = ?";
-        
+                "SELECT * " +
+                        "FROM book " +
+                        "WHERE author = " + '"' + authorName +'"';
+
         ResultSet resultSet = DBConnectionManager.executeQuery(sql);
         return resultSet;
     }

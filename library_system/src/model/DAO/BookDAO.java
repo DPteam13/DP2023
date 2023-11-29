@@ -26,13 +26,14 @@ public class BookDAO extends DAO{
         ArrayList<Book> resultList = new ArrayList<>();
         while(resultSet.next()){
             Book book = new Book(
+                    resultSet.getString("bookId"),
                     resultSet.getString("name"),
+                    resultSet.getString("location"),
                     resultSet.getString("isbn"),
-                    resultSet.getInt("classification_code"),
-                    resultSet.getInt("publisher_id"),
-                    resultSet.getInt("author_id"),
-                    resultSet.getInt("is_borrowed")
-            );
+                    resultSet.getString("publisher"),
+                    resultSet.getString("author"),
+                    resultSet.getString("isBorrowed")
+                    );
             resultList.add(book);
 
         }

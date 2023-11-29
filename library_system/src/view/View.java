@@ -68,7 +68,7 @@ public abstract class View {
             System.out.println("유효하지 않은 선택 입니다. 메뉴를 다시 선택 해주세요.");
             return 0;
         } catch (Exception e){
-            in.nextLine();
+//            in.nextLine();
             e.printStackTrace();
             System.out.println("Unknown Error");
             return 0;

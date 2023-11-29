@@ -59,7 +59,9 @@ public class JDBCStatement extends StatementAdapter
 			return new JDBCResultSet( result.rows() );
 		}
 		catch( Exception e )
-		{	throw new SQLException( e.getMessage() );
+		{
+			e.printStackTrace();
+			throw new SQLException( e.getMessage() );
 		}
 	}
 

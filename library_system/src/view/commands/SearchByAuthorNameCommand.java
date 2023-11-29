@@ -23,9 +23,15 @@ public class SearchByAuthorNameCommand implements Command{
         String authorName = in.nextLine();
         List<Book> searchedBookList = searchBookController.searchByAuthor(authorName);
         System.out.println("Results");
-        System.out.printf("| %20s | %10s |", "name", "isBorrowed");
+        System.out.printf("| %-20s | %-20s | %-20s | %-20s |", "name", "author", "location", "isBorrowed" );
+        System.out.println();
         for(int i = 0; i < searchedBookList.size(); i++){
-            System.out.printf("| %20s | %10s |", searchedBookList.get(i).getName(), searchedBookList.get(i).getIsBorrowed());
+            Book curBook = searchedBookList.get(i);
+            System.out.printf("| %-20s | %-20s | %-20s | %-20s |", curBook.getName(), curBook.getAuthor(), curBook.getLocation(), curBook.getIsBorrowed());
+            System.out.println();
         }
+        if (searchedBookList.size() == 0)
+            System.out.println("결과 없음");
+
     }
 }

@@ -1174,7 +1174,6 @@ public final class Database
 		{
 			Value leftValue  = left.evaluate ( tables );
 			Value rightValue = right.evaluate( tables );
-
 			if( 	(leftValue  instanceof StringValue)
 				||	(rightValue instanceof StringValue) )
 			{	verify(operator==EQ || operator==NE,

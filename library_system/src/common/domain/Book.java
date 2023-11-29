@@ -2,71 +2,82 @@ package common.domain;
 
 public class Book {
 
-    public Book(String name, String Isbn, int classificationCode, int publisherId, int authorId, int isBorrowed){
+    public Book(String bookId, String name, String location, String isbn, String publisher, String author, String isBorrowed){
+        this.bookId = bookId;
         this.name = name;
-        this.Isbn = Isbn;
-        this.classificationCode = classificationCode;
-        this.publisherId = publisherId;
-        this.authorId = authorId;
+        this.location = location;
+        this.isbn = isbn;
+        this.publisher = publisher;
+        this.author = author;
         this.isBorrowed = isBorrowed;
     };
     public Book(){};
-    private int bookId;
-
+    private String bookId;
     private String name;
+    private String location;
+    private String isbn;
+    private String publisher;
 
-    private String Isbn;
+    private String author;
+    private String isBorrowed;
 
-    private int classificationCode;
-
-    private int publisherId;
-
-    private int authorId;
-
-    private int isBorrowed;
 
     ////////////////////////////////////////////////////
     // Getters and setters
-    public int getBookId(){
+
+    public String getBookId() {
         return bookId;
     }
-    public void setBookId(int bookId){
+
+    public void setBookId(String bookId) {
         this.bookId = bookId;
     }
-    public String getName(){
+
+    public String getName() {
         return name;
     }
-    public void setName(String name){
+
+    public void setName(String name) {
         this.name = name;
     }
-    public String getIsbn(){
-        return Isbn;
+
+    public String getLocation() {
+        return location;
     }
-    public void setIsbn(String Isbn){
-        this.Isbn = Isbn;
+
+    public void setLocation(String location) {
+        this.location = location;
     }
-    public int getClassificationCode(){
-        return classificationCode;
+
+    public String getIsbn() {
+        return isbn;
     }
-    public void setClassificationCode(int classificationCode){
-        this.classificationCode = classificationCode;
+
+    public void setIsbn(String isbn) {
+        this.isbn = isbn;
     }
-    public int getPublisherId(){
-        return publisherId;
+
+    public String getPublisher() {
+        return publisher;
     }
-    public void setPublisherId(int publisherId){
-        this.publisherId = publisherId;
+
+    public void setPublisher(String publisher) {
+        this.publisher = publisher;
     }
-    public int getAuthorId(){
-        return authorId;
+
+    public String getAuthor() {
+        return author;
     }
-    public void setAuthorId(int authorId){
-        this.authorId = authorId;
+
+    public void setAuthor(String author) {
+        this.author = author;
     }
-    public int getIsBorrowed(){
+
+    public String getIsBorrowed() {
         return isBorrowed;
     }
-    public void setIsBorrowed(int isBorrowed){
+
+    public void setIsBorrowed(String isBorrowed) {
         this.isBorrowed = isBorrowed;
     }
 }

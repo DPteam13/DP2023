@@ -83,10 +83,10 @@ import com.holub.tools.ArrayIterator;
 	 * the column doesn't exist.
 	 */
 	private int indexOf(String columnName) {
-		for (int i = 0; i < columnNames.length; ++i)
+		for (int i = 0; i < columnNames.length; ++i) {
 			if (columnNames[i].equals(columnName))
 				return i;
-
+		}
 		throw new IndexOutOfBoundsException("Column (" + columnName + ") doesn't exist in " + tableName);
 	}
 

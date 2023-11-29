@@ -91,7 +91,7 @@ public class CSVExporter implements Table.Exporter
 				out.write( datum.toString() );
 
 			if( --i > 0 )
-				out.write(",\t");
+				out.write(",");
 		}
 		out.write("\n");
 	}
