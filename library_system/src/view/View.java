@@ -41,7 +41,7 @@ public abstract class View {
     public void select(int idx, Scanner in) {
         if(idx == -1)
             return;
-        options.get(idx).execute(in);
+        options.get(idx).execute(in); // 여기서 execute 실행됨 (즉, invoker가 command를 부름)
     }
     public void printTitle(){
         System.out.print(title);
