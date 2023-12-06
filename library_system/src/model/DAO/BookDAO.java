@@ -17,11 +17,11 @@ public class BookDAO extends DAO{
 
     /**
      *
-     * @param bookName
+     * @param searchParameter
      * @return book list
      */
-    public ArrayList<Book> search(String bookName, SearchBook searchMethod) throws SQLException{
-        ResultSet resultSet = searchMethod.search(bookName);
+    public ArrayList<Book> search(String searchParameter, SearchBook searchMethod) throws SQLException{
+        ResultSet resultSet = searchMethod.search(searchParameter);
 
         ArrayList<Book> resultList = new ArrayList<>();
         while(resultSet.next()){
